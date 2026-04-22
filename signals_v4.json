@@ -1,0 +1,156 @@
+[
+  {
+    "time": "2026-04-21T12:34:26.166349+00:00",
+    "price": 4803.9,
+    "session": "London",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 1.3,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 37.462367216s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/g"
+  },
+  {
+    "time": "2026-04-21T13:19:07.752437+00:00",
+    "price": 4769.47,
+    "session": "London",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 5.5,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 52.256993452s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/g"
+  },
+  {
+    "time": "2026-04-21T13:21:37.347666+00:00",
+    "price": 4789.4,
+    "session": "London",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 2.5,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 25.282969732s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/g"
+  },
+  {
+    "time": "2026-04-21T13:23:35.291827+00:00",
+    "price": 4785.5,
+    "session": "London",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 2.5,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 27.338079763s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/g"
+  },
+  {
+    "time": "2026-04-21T13:46:54.083876+00:00",
+    "price": 4788.47,
+    "session": "London",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 3.5,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 9.797605113s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/ge"
+  },
+  {
+    "time": "2026-04-21T14:26:16.956304+00:00",
+    "price": 4797.0,
+    "session": "London",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 0.5,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 43.060371638s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/g"
+  },
+  {
+    "time": "2026-04-21T14:27:39.739633+00:00",
+    "price": 4796.9,
+    "session": "London",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 0.5,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 20.277761174s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/g"
+  },
+  {
+    "time": "2026-04-21T14:29:00.138344+00:00",
+    "price": 4797.2,
+    "session": "London",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 0.5,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 2.547383283s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/ge"
+  },
+  {
+    "time": "2026-04-21T14:33:42.288065+00:00",
+    "price": 4770.11,
+    "session": "London",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 4.5,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 17.75330966s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/ge"
+  },
+  {
+    "time": "2026-04-21T14:36:20.281760+00:00",
+    "price": 4767.23,
+    "session": "London",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 4.5,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 39.740669901s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/g"
+  },
+  {
+    "time": "2026-04-21T14:36:57.151688+00:00",
+    "price": 4791.5,
+    "session": "London",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 2.5,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 5.440987771s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/ge"
+  },
+  {
+    "time": "2026-04-22T01:52:16.545517+00:00",
+    "price": 4752.74,
+    "session": "Off-Session",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 3.5,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 46.209396779s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/g"
+  },
+  {
+    "time": "2026-04-22T02:21:22.341788+00:00",
+    "price": 4757.04,
+    "session": "Off-Session",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 4.7,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 40.914527722s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/g"
+  },
+  {
+    "time": "2026-04-22T03:52:45.751936+00:00",
+    "price": 4758.94,
+    "session": "Off-Session",
+    "sent": false,
+    "confidence": 0,
+    "entry": null,
+    "bias": "",
+    "score": 4.7,
+    "signal": "NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 17.127153003s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/g"
+  }
+]

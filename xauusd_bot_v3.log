@@ -1,0 +1,1345 @@
+2026-04-21 16:11:03,770 [INFO] XAUUSD Smart Money Bot v3.0 starting...
+2026-04-21 16:11:04,722 [INFO] ✅ Telegram sent
+2026-04-21 16:11:04,723 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:11:04,723 [INFO] BOT CYCLE START
+2026-04-21 16:11:04,723 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:11:04,723 [INFO] Fetching TradingView data...
+2026-04-21 16:11:05,086 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 16:11:05,519 [INFO]   TV 1D: ✓
+2026-04-21 16:11:05,876 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 16:11:06,256 [INFO]   TV 4H: ✓
+2026-04-21 16:11:06,645 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 16:11:07,053 [INFO]   TV 1H: ✓
+2026-04-21 16:11:07,464 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 16:11:07,873 [INFO]   TV 15M: ✓
+2026-04-21 16:11:07,873 [INFO] Fetching OHLCV candles...
+2026-04-21 16:11:10,466 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:11:10,584 [INFO]   OHLCV m15: ✓ 271 bars
+2026-04-21 16:11:10,594 [INFO] Price: $4785.6 | Session: London
+2026-04-21 16:11:10,594 [INFO] Sending prompt to Gemini...
+2026-04-21 16:11:10,823 [ERROR] Gemini error: 404 models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-21 16:11:10,823 [INFO] AI result:
+NO TRADE - AI unavailable
+
+2026-04-21 16:11:10,823 [INFO] No valid signal: AI unavailable
+2026-04-21 16:11:10,824 [INFO] Scheduler active — every 15 minutes
+2026-04-21 16:11:46,960 [INFO] XAUUSD Smart Money Bot v3.0 starting...
+2026-04-21 16:11:49,938 [INFO] ✅ Telegram sent
+2026-04-21 16:11:49,939 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:11:49,939 [INFO] BOT CYCLE START
+2026-04-21 16:11:49,939 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:11:49,939 [INFO] Fetching TradingView data...
+2026-04-21 16:11:50,474 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 16:11:50,805 [INFO]   TV 1D: ✓
+2026-04-21 16:11:51,188 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 16:11:51,599 [INFO]   TV 4H: ✓
+2026-04-21 16:11:52,007 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 16:11:52,418 [INFO]   TV 1H: ✓
+2026-04-21 16:11:52,777 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 16:11:53,124 [INFO]   TV 15M: ✓
+2026-04-21 16:11:53,124 [INFO] Fetching OHLCV candles...
+2026-04-21 16:11:53,632 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:11:53,756 [INFO]   OHLCV m15: ✓ 271 bars
+2026-04-21 16:11:53,767 [INFO] Price: $4786.07 | Session: London
+2026-04-21 16:11:53,767 [INFO] Sending prompt to Gemini...
+2026-04-21 16:11:53,948 [ERROR] Gemini error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-21 16:11:53,948 [INFO] AI result:
+NO TRADE - AI unavailable
+
+2026-04-21 16:11:53,948 [INFO] No valid signal: AI unavailable
+2026-04-21 16:11:53,948 [INFO] Scheduler active — every 15 minutes
+2026-04-21 16:12:32,190 [INFO] XAUUSD Smart Money Bot v3.0 starting...
+2026-04-21 16:12:35,227 [INFO] ✅ Telegram sent
+2026-04-21 16:12:35,228 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:12:35,228 [INFO] BOT CYCLE START
+2026-04-21 16:12:35,228 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:12:35,228 [INFO] Fetching TradingView data...
+2026-04-21 16:12:35,333 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:12:35,437 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:12:35,438 [ERROR] All TV sources failed for 1D
+2026-04-21 16:12:35,439 [INFO]   TV 1D: ✗
+2026-04-21 16:12:35,555 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:12:35,660 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:12:35,660 [ERROR] All TV sources failed for 4H
+2026-04-21 16:12:35,661 [INFO]   TV 4H: ✗
+2026-04-21 16:12:37,763 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:12:37,868 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:12:37,869 [ERROR] All TV sources failed for 1H
+2026-04-21 16:12:37,869 [INFO]   TV 1H: ✗
+2026-04-21 16:12:37,988 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:12:38,095 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:12:38,096 [ERROR] All TV sources failed for 15M
+2026-04-21 16:12:38,096 [INFO]   TV 15M: ✗
+2026-04-21 16:12:38,096 [INFO] Fetching OHLCV candles...
+2026-04-21 16:12:38,746 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:12:38,872 [INFO]   OHLCV m15: ✓ 271 bars
+2026-04-21 16:12:38,872 [ERROR] Cannot determine current price
+2026-04-21 16:12:38,872 [ERROR] Failed to build snapshot
+2026-04-21 16:12:38,872 [INFO] Scheduler active — every 15 minutes
+2026-04-21 16:27:38,980 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:27:38,985 [INFO] BOT CYCLE START
+2026-04-21 16:27:38,985 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:27:38,985 [INFO] Fetching TradingView data...
+2026-04-21 16:27:39,400 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 16:27:39,763 [INFO]   TV 1D: ✓
+2026-04-21 16:27:42,166 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 16:27:42,983 [INFO]   TV 4H: ✓
+2026-04-21 16:27:43,394 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 16:27:43,802 [INFO]   TV 1H: ✓
+2026-04-21 16:27:46,259 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 16:27:46,670 [INFO]   TV 15M: ✓
+2026-04-21 16:27:46,670 [INFO] Fetching OHLCV candles...
+2026-04-21 16:27:46,851 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:27:46,970 [INFO]   OHLCV m15: ✓ 272 bars
+2026-04-21 16:27:46,986 [INFO] Price: $4783.1 | Session: London
+2026-04-21 16:27:46,986 [INFO] Sending prompt to Gemini...
+2026-04-21 16:28:04,391 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BEARISH
+SETUP: 4H Bearish OB rejection at 4793 + 1H supply retest after 15M SSL breach
+ENTRY: 4788.00
+STOP LOSS: 4796.00
+TP1: 4780.00
+TP2: 4772.00
+TP3: 4764.00
+RISK-REWARD: 1:3.0
+CONFIDENCE: 80%
+SESSION: London
+INVALIDATION: 4796.10
+REASON: Macro bias is shifting bearish as price struggles to hold the 1D EMA50 (4782.8), while the 4H structure shows a clear Lower High rejection at the 4793.3 Bearish OB. Price recently swept the 15M SSL (4790.8), and the entry at 4788.00 targets a retest of this broken structure and the 1H EMA cluster. The setup anticipates a continuation toward the 4H swing low liquidity at 4752.0.
+
+2026-04-21 16:28:05,409 [INFO] ✅ Telegram sent
+2026-04-21 16:28:05,411 [INFO] Signal sent! Conf=80% | Entry=4788.0
+2026-04-21 16:35:35,276 [INFO] XAUUSD Smart Money Bot v3.1 starting...
+2026-04-21 16:35:35,276 [WARNING] Mengirim pesan text saja (tanpa foto)
+2026-04-21 16:35:36,292 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:35:36,292 [INFO] BOT CYCLE START
+2026-04-21 16:35:36,292 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:35:36,292 [INFO] Fetching TradingView data...
+2026-04-21 16:35:38,687 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 16:35:39,062 [INFO]   TV 1D: ✓
+2026-04-21 16:35:39,397 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 16:35:39,739 [INFO]   TV 4H: ✓
+2026-04-21 16:35:40,188 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 16:35:40,599 [INFO]   TV 1H: ✓
+2026-04-21 16:35:41,008 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 16:35:41,418 [INFO]   TV 15M: ✓
+2026-04-21 16:35:41,418 [INFO] Fetching OHLCV candles...
+2026-04-21 16:35:43,186 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:35:43,935 [INFO]   OHLCV m15: ✓ 272 bars
+2026-04-21 16:35:43,944 [INFO] Price: $4784.24 | Session: London
+2026-04-21 16:35:43,944 [INFO] Sending prompt to Gemini...
+2026-04-21 16:36:19,615 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BEARISH
+SETUP: 4H Breaker Block retest + 15M CHoCH after 4H LH/LL confirmation
+ENTRY: 4800.00
+STOP LOSS: 4813.00
+TP1: 4787.00
+TP2: 4774.00
+TP3: 4761.00
+RISK-REWARD: 1:3
+CONFIDENCE: 80%
+SESSION: London
+INVALIDATION: 4813.50
+REASON: Macro bias is bearish as price corrects toward the 1D EMA20/50, supported by 4H and 1H market structure showing Lower Highs and Lower Lows. Price recently swept the 15M SSL (4790.8), violating the previous bullish order block and transforming it into a bearish breaker block. The entry model seeks a retracement to the 4800.00 psychological level and 15M EMA100/200 cluster for a high-probability continuation toward the 4H SSL.
+
+2026-04-21 16:36:19,617 [ERROR] Gagal membuat chart: Data for column "Open" must be ALL float or int.
+2026-04-21 16:36:19,618 [WARNING] Mengirim pesan text saja (tanpa foto)
+2026-04-21 16:36:20,585 [INFO] Signal sent! Conf=80% | Entry=4800.0
+2026-04-21 16:36:20,585 [INFO] Scheduler active — every 15 minutes
+2026-04-21 16:41:35,829 [INFO] XAUUSD Smart Money Bot v3.0 starting...
+2026-04-21 16:41:35,829 [WARNING] Mengirim pesan text saja (tanpa foto)
+2026-04-21 16:41:36,759 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:41:36,759 [INFO] BOT CYCLE START
+2026-04-21 16:41:36,759 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:41:36,759 [INFO] Fetching TradingView data...
+2026-04-21 16:41:37,167 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 16:41:37,579 [INFO]   TV 1D: ✓
+2026-04-21 16:41:37,914 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 16:41:40,342 [INFO]   TV 4H: ✓
+2026-04-21 16:41:40,751 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 16:41:41,161 [INFO]   TV 1H: ✓
+2026-04-21 16:41:41,467 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 16:41:41,786 [INFO]   TV 15M: ✓
+2026-04-21 16:41:41,786 [INFO] Fetching OHLCV candles...
+2026-04-21 16:41:42,319 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:41:42,443 [INFO]   OHLCV m15: ✓ 273 bars
+2026-04-21 16:41:42,450 [INFO] Price: $4785.23 | Session: London
+2026-04-21 16:41:42,451 [INFO] Sending prompt to Gemini...
+2026-04-21 16:42:01,539 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BEARISH
+SETUP: 4H Bearish OB mitigation after LH+LL structure confirmation and 15M SSL sweep
+ENTRY: 4793.30
+STOP LOSS: 4805.30
+TP1: 4781.30
+TP2: 4769.30
+TP3: 4757.30
+RISK-REWARD: 1:3.0
+CONFIDENCE: 78%
+SESSION: London
+INVALIDATION: 4805.30
+REASON: Macro daily bias is correcting while the 4H structure has shifted bearish with confirmed lower highs and lower lows. Price is currently reacting to the 4H EMA200, which likely provides a short-term relief bounce into the premium Bearish OB at 4793.30. This setup targets the high-density liquidity at the 15M Equal Lows and the 4H Swing Low (4752.0) in alignment with the Strong Sell 1H/15M momentum.
+
+2026-04-21 16:42:01,541 [ERROR] Gagal membuat chart: Data for column "Open" must be ALL float or int.
+2026-04-21 16:42:01,541 [WARNING] Mengirim pesan text saja (tanpa foto)
+2026-04-21 16:42:02,568 [INFO] Signal sent! Conf=78% | Entry=4793.3
+2026-04-21 16:42:02,568 [INFO] Scheduler active — every 15 minutes
+2026-04-21 16:43:10,354 [INFO] XAUUSD Smart Money Bot v3.0 starting...
+2026-04-21 16:43:10,354 [WARNING] Mengirim pesan text saja (tanpa foto)
+2026-04-21 16:43:11,277 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:43:11,277 [INFO] BOT CYCLE START
+2026-04-21 16:43:11,277 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:43:11,277 [INFO] Fetching TradingView data...
+2026-04-21 16:43:11,635 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 16:43:11,995 [INFO]   TV 1D: ✓
+2026-04-21 16:43:14,349 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 16:43:14,759 [INFO]   TV 4H: ✓
+2026-04-21 16:43:15,167 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 16:43:15,578 [INFO]   TV 1H: ✓
+2026-04-21 16:43:15,987 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 16:43:16,341 [INFO]   TV 15M: ✓
+2026-04-21 16:43:16,341 [INFO] Fetching OHLCV candles...
+2026-04-21 16:43:16,841 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:43:16,971 [INFO]   OHLCV m15: ✓ 273 bars
+2026-04-21 16:43:16,979 [INFO] Price: $4785.64 | Session: London
+2026-04-21 16:43:16,979 [INFO] Sending prompt to Gemini...
+2026-04-21 16:43:48,858 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BEARISH
+SETUP: 4H Bearish structure (LH+LL) + 15M BOS + Retest of 15M Bearish OB / 4H Breaker
+ENTRY: 4803.70
+STOP LOSS: 4813.50
+TP1: 4793.90
+TP2: 4784.10
+TP3: 4774.30
+RISK-REWARD: 1:3.0
+CONFIDENCE: 75%
+SESSION: London
+INVALIDATION: Price candle close above 4815.00
+REASON: Macro structure has shifted bearish on the 4H and 1H timeframes with confirmed Lower Highs and Lower Lows. A 15M Break of Structure (BOS) occurred when price cleared the 4790.8 level, leaving behind a clear Bearish Order Block and turning the previous 4H Bullish OB into a Breaker. We expect price to retraced into this supply zone (4803.70) to collect liquidity before continuing the descent toward the 4H Sell-Side Liquidity (SSL) at 4752.0.
+
+2026-04-21 16:43:48,868 [ERROR] Gagal membuat chart: Data for column "Open" must be ALL float or int.
+2026-04-21 16:43:48,868 [WARNING] Mengirim pesan text saja (tanpa foto)
+2026-04-21 16:43:49,798 [INFO] Signal sent! Conf=75% | Entry=4803.7
+2026-04-21 16:43:49,798 [INFO] Scheduler active — every 15 minutes
+2026-04-21 16:44:33,181 [INFO] XAUUSD Smart Money Bot v3.0 starting...
+2026-04-21 16:44:33,182 [WARNING] Mengirim pesan text saja (tanpa foto)
+2026-04-21 16:44:34,207 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:44:34,207 [INFO] BOT CYCLE START
+2026-04-21 16:44:34,207 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:44:34,208 [INFO] Fetching TradingView data...
+2026-04-21 16:44:34,327 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:44:34,432 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:44:34,432 [ERROR] All TV sources failed for 1D
+2026-04-21 16:44:34,433 [INFO]   TV 1D: ✗
+2026-04-21 16:44:34,531 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:44:34,637 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:44:34,638 [ERROR] All TV sources failed for 4H
+2026-04-21 16:44:34,638 [INFO]   TV 4H: ✗
+2026-04-21 16:44:34,742 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:44:34,846 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:44:34,847 [ERROR] All TV sources failed for 1H
+2026-04-21 16:44:34,847 [INFO]   TV 1H: ✗
+2026-04-21 16:44:34,952 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:44:35,061 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:44:35,062 [ERROR] All TV sources failed for 15M
+2026-04-21 16:44:35,063 [INFO]   TV 15M: ✗
+2026-04-21 16:44:35,063 [INFO] Fetching OHLCV candles...
+2026-04-21 16:44:35,529 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:44:35,664 [INFO]   OHLCV m15: ✓ 273 bars
+2026-04-21 16:44:35,664 [ERROR] Cannot determine current price
+2026-04-21 16:44:35,664 [ERROR] Failed to build snapshot
+2026-04-21 16:44:35,664 [INFO] Scheduler active — every 15 minutes
+2026-04-21 16:45:00,966 [INFO] XAUUSD Smart Money Bot v3.0 starting...
+2026-04-21 16:45:00,966 [WARNING] Mengirim pesan text saja (tanpa foto)
+2026-04-21 16:45:01,964 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:45:01,964 [INFO] BOT CYCLE START
+2026-04-21 16:45:01,964 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:45:01,964 [INFO] Fetching TradingView data...
+2026-04-21 16:45:02,062 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:45:02,158 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:45:02,159 [ERROR] All TV sources failed for 1D
+2026-04-21 16:45:02,159 [INFO]   TV 1D: ✗
+2026-04-21 16:45:02,256 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:45:02,354 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:45:02,355 [ERROR] All TV sources failed for 4H
+2026-04-21 16:45:02,355 [INFO]   TV 4H: ✗
+2026-04-21 16:45:02,454 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:45:02,552 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:45:02,553 [ERROR] All TV sources failed for 1H
+2026-04-21 16:45:02,553 [INFO]   TV 1H: ✗
+2026-04-21 16:45:02,651 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:45:02,751 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:45:02,751 [ERROR] All TV sources failed for 15M
+2026-04-21 16:45:02,752 [INFO]   TV 15M: ✗
+2026-04-21 16:45:02,752 [INFO] Fetching OHLCV candles...
+2026-04-21 16:45:03,210 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:45:03,328 [INFO]   OHLCV m15: ✓ 273 bars
+2026-04-21 16:45:03,328 [ERROR] Cannot determine current price
+2026-04-21 16:45:03,328 [ERROR] Failed to build snapshot
+2026-04-21 16:45:03,328 [INFO] Scheduler active — every 15 minutes
+2026-04-21 16:48:44,391 [INFO] XAUUSD Smart Money Bot v3.0 starting...
+2026-04-21 16:48:44,391 [WARNING] Mengirim pesan text saja (tanpa foto)
+2026-04-21 16:48:47,572 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:48:47,572 [INFO] BOT CYCLE START
+2026-04-21 16:48:47,572 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:48:47,572 [INFO] Fetching TradingView data...
+2026-04-21 16:48:47,689 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:48:47,793 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:48:47,794 [ERROR] All TV sources failed for 1D
+2026-04-21 16:48:47,794 [INFO]   TV 1D: ✗
+2026-04-21 16:48:47,891 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:48:47,999 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:48:48,000 [ERROR] All TV sources failed for 4H
+2026-04-21 16:48:48,000 [INFO]   TV 4H: ✗
+2026-04-21 16:48:48,095 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:48:48,189 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:48:48,192 [ERROR] All TV sources failed for 1H
+2026-04-21 16:48:48,193 [INFO]   TV 1H: ✗
+2026-04-21 16:48:48,297 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:48:48,400 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:48:48,401 [ERROR] All TV sources failed for 15M
+2026-04-21 16:48:48,401 [INFO]   TV 15M: ✗
+2026-04-21 16:48:48,401 [INFO] Fetching OHLCV candles...
+2026-04-21 16:48:49,314 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:48:49,446 [INFO]   OHLCV m15: ✓ 273 bars
+2026-04-21 16:48:49,446 [INFO] Using yfinance fallback for current price
+2026-04-21 16:48:49,451 [INFO] Price: $4803.0 | Session: London
+2026-04-21 16:48:49,452 [INFO] Sending prompt to Gemini...
+2026-04-21 16:49:20,263 [INFO] AI result:
+NO TRADE - Price is trapped in a sideways range with zero volatility (ATR 0) and overlapping order blocks, providing no high-probability directional bias or liquidity sweep.
+
+2026-04-21 16:49:20,263 [INFO] No valid signal: Price is trapped in a sideways range with zero volatility (ATR 0) and overlapping order blocks, prov
+2026-04-21 16:49:20,268 [INFO] Scheduler active — every 15 minutes
+2026-04-21 16:50:16,622 [INFO] XAUUSD Smart Money Bot v3.0 starting...
+2026-04-21 16:50:16,622 [WARNING] Mengirim pesan text saja (tanpa foto)
+2026-04-21 16:50:17,659 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:50:17,660 [INFO] BOT CYCLE START
+2026-04-21 16:50:17,660 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:50:17,660 [INFO] Fetching TradingView data...
+2026-04-21 16:50:17,805 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:50:17,905 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:50:17,906 [ERROR] All TV sources failed for 1D
+2026-04-21 16:50:17,906 [INFO]   TV 1D: ✗
+2026-04-21 16:50:18,011 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:50:18,115 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:50:18,115 [ERROR] All TV sources failed for 4H
+2026-04-21 16:50:18,115 [INFO]   TV 4H: ✗
+2026-04-21 16:50:18,216 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:50:18,324 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:50:18,325 [ERROR] All TV sources failed for 1H
+2026-04-21 16:50:18,325 [INFO]   TV 1H: ✗
+2026-04-21 16:50:18,427 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:50:18,535 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 16:50:18,536 [ERROR] All TV sources failed for 15M
+2026-04-21 16:50:18,536 [INFO]   TV 15M: ✗
+2026-04-21 16:50:18,536 [INFO] Fetching OHLCV candles...
+2026-04-21 16:50:19,025 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:50:19,159 [INFO]   OHLCV m15: ✓ 273 bars
+2026-04-21 16:50:19,159 [INFO] Using yfinance fallback for current price
+2026-04-21 16:50:19,162 [INFO] Price: $4802.2 | Session: London
+2026-04-21 16:50:19,163 [INFO] Sending prompt to Gemini...
+2026-04-21 16:50:42,133 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BEARISH
+SETUP: 4H Bearish OB retest + 15M supply alignment + target 15M EQL sweep
+ENTRY: 4807.95
+STOP LOSS: 4813.00
+TP1: 4802.90
+TP2: 4797.85
+TP3: 4792.80
+RISK-REWARD: 1:3.0
+CONFIDENCE: 75%
+SESSION: London
+INVALIDATION: Candle closure above 4813.00
+REASON: Macro bias is bearish based on the 4H Lower High and Lower Low structure. Price is currently retracing into a 15M Bearish OB [4803.7–4812.2] which aligns with the 4H Bearish OB zone. There is a high concentration of liquidity (EQL×7) resting at 4790.8, providing a high-probability draw on liquidity for this sell setup.
+
+2026-04-21 16:50:44,898 [INFO] ✅ Telegram Sent with Chart
+2026-04-21 16:50:44,902 [INFO] Signal sent! Conf=75% | Entry=4807.95
+2026-04-21 16:50:44,902 [INFO] Scheduler active — every 15 minutes
+2026-04-21 16:55:04,257 [INFO] XAUUSD Smart Money Bot v3.0 starting...
+2026-04-21 16:55:04,257 [WARNING] Mengirim pesan text saja (tanpa foto)
+2026-04-21 16:55:05,088 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:55:05,089 [INFO] BOT CYCLE START
+2026-04-21 16:55:05,089 [INFO] ══════════════════════════════════════════════════
+2026-04-21 16:55:05,089 [INFO] Fetching TradingView data...
+2026-04-21 16:55:05,458 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 16:55:05,792 [INFO]   TV 1D: ✓
+2026-04-21 16:55:06,212 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 16:55:08,671 [INFO]   TV 4H: ✓
+2026-04-21 16:55:09,080 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 16:55:09,492 [INFO]   TV 1H: ✓
+2026-04-21 16:55:09,841 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 16:55:10,308 [INFO]   TV 15M: ✓
+2026-04-21 16:55:10,308 [INFO] Fetching OHLCV candles...
+2026-04-21 16:55:12,936 [INFO]   OHLCV h1: ✓ 161 bars
+2026-04-21 16:55:13,051 [INFO]   OHLCV m15: ✓ 274 bars
+2026-04-21 16:55:13,055 [INFO] Price: $4787.19 | Session: London
+2026-04-21 16:55:13,056 [INFO] Sending prompt to Gemini...
+2026-04-21 16:55:36,219 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BEARISH
+CONFLUENCE: 4H Bearish Structure (LH/LL) + Retest of Violated 4H Bullish OB (Breaker) + 1H EMA 20/50 Cluster Resistance + RSI < 50
+ENTRY: 4798.50
+STOP LOSS: 4810.50
+TP1: 4785.00
+TP2: 4772.40
+TP3: 4752.00
+RISK-REWARD: 1:2.4
+CONFIDENCE: 80%
+REASON: Although the Daily bias remains bullish, the 4H timeframe has confirmed a bearish shift with a series of Lower Highs and Lower Lows. Price is currently trading below the 4H EMA 20 and has broken through the 4H Bullish OB (4793.0), which now acts as a resistance zone (Breaker Block). The entry at 4798.50 aligns with the 1H EMA 20/50 confluence and the 15M Bearish OB, providing a high-probability sell-on-retracement setup targeting the recent 4H low and the major SSL at 4752.0.
+
+2026-04-21 16:55:38,570 [INFO] ✅ Telegram Sent with Chart
+2026-04-21 16:55:38,571 [INFO] Signal sent! Conf=80% | Entry=4798.5
+2026-04-21 16:55:38,572 [INFO] Scheduler active — every 15 minutes
+2026-04-21 18:34:42,231 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:34:42,234 [INFO] BOT CYCLE START
+2026-04-21 18:34:42,234 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:34:42,236 [INFO] Fetching TradingView data...
+2026-04-21 18:34:42,242 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:34:42,243 [INFO] BOT CYCLE START
+2026-04-21 18:34:42,243 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:34:42,244 [INFO] Fetching TradingView data...
+2026-04-21 18:34:42,246 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,281 [WARNING] TV fetch failed [TVC:GOLD 1D]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,281 [ERROR] All TV sources failed for 1D
+2026-04-21 18:34:42,281 [INFO]   TV 1D: ✗
+2026-04-21 18:34:42,292 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,300 [WARNING] TV fetch failed [TVC:GOLD 4H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,302 [ERROR] All TV sources failed for 4H
+2026-04-21 18:34:42,302 [INFO]   TV 4H: ✗
+2026-04-21 18:34:42,307 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,328 [WARNING] TV fetch failed [TVC:GOLD 1H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,328 [ERROR] All TV sources failed for 1H
+2026-04-21 18:34:42,328 [INFO]   TV 1H: ✗
+2026-04-21 18:34:42,330 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,331 [WARNING] TV fetch failed [TVC:GOLD 15M]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,331 [ERROR] All TV sources failed for 15M
+2026-04-21 18:34:42,331 [INFO]   TV 15M: ✗
+2026-04-21 18:34:42,331 [INFO] Fetching OHLCV candles...
+2026-04-21 18:34:42,336 [ERROR] $GC=F: possibly delisted; no price data found  (period=10d)
+2026-04-21 18:34:42,342 [ERROR] 
+1 Failed download:
+2026-04-21 18:34:42,343 [ERROR] ['GC=F']: possibly delisted; no price data found  (period=10d)
+2026-04-21 18:34:42,349 [INFO]   OHLCV h1: ✗
+2026-04-21 18:34:42,355 [ERROR] $GC=F: possibly delisted; no price data found  (period=5d)
+2026-04-21 18:34:42,363 [ERROR] 
+1 Failed download:
+2026-04-21 18:34:42,364 [ERROR] ['GC=F']: possibly delisted; no price data found  (period=5d)
+2026-04-21 18:34:42,366 [INFO]   OHLCV m15: ✗
+2026-04-21 18:34:42,367 [ERROR] Cannot determine current price
+2026-04-21 18:34:42,367 [ERROR] Failed to build snapshot
+2026-04-21 18:34:42,377 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,380 [WARNING] TV fetch failed [TVC:GOLD 1D]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,380 [ERROR] All TV sources failed for 1D
+2026-04-21 18:34:42,381 [INFO]   TV 1D: ✗
+2026-04-21 18:34:42,419 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:34:42,424 [INFO] BOT CYCLE START
+2026-04-21 18:34:42,424 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:34:42,424 [INFO] Fetching TradingView data...
+2026-04-21 18:34:42,434 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,435 [WARNING] TV fetch failed [TVC:GOLD 4H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,435 [ERROR] All TV sources failed for 4H
+2026-04-21 18:34:42,435 [INFO]   TV 4H: ✗
+2026-04-21 18:34:42,436 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,439 [WARNING] TV fetch failed [TVC:GOLD 1H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,439 [ERROR] All TV sources failed for 1H
+2026-04-21 18:34:42,440 [INFO]   TV 1H: ✗
+2026-04-21 18:34:42,445 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,452 [WARNING] TV fetch failed [TVC:GOLD 15M]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,453 [ERROR] All TV sources failed for 15M
+2026-04-21 18:34:42,454 [INFO]   TV 15M: ✗
+2026-04-21 18:34:42,455 [INFO] Fetching OHLCV candles...
+2026-04-21 18:34:42,492 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,495 [WARNING] TV fetch failed [TVC:GOLD 1D]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,496 [ERROR] All TV sources failed for 1D
+2026-04-21 18:34:42,496 [INFO]   TV 1D: ✗
+2026-04-21 18:34:42,498 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,500 [WARNING] TV fetch failed [TVC:GOLD 4H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,501 [ERROR] All TV sources failed for 4H
+2026-04-21 18:34:42,501 [INFO]   TV 4H: ✗
+2026-04-21 18:34:42,512 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,532 [WARNING] TV fetch failed [TVC:GOLD 1H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,533 [ERROR] All TV sources failed for 1H
+2026-04-21 18:34:42,533 [INFO]   TV 1H: ✗
+2026-04-21 18:34:42,551 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,559 [WARNING] TV fetch failed [TVC:GOLD 15M]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,560 [ERROR] All TV sources failed for 15M
+2026-04-21 18:34:42,560 [INFO]   TV 15M: ✗
+2026-04-21 18:34:42,561 [INFO] Fetching OHLCV candles...
+2026-04-21 18:34:42,633 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:34:42,637 [INFO] BOT CYCLE START
+2026-04-21 18:34:42,637 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:34:42,638 [INFO] Fetching TradingView data...
+2026-04-21 18:34:42,699 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,703 [WARNING] TV fetch failed [TVC:GOLD 1D]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,704 [ERROR] All TV sources failed for 1D
+2026-04-21 18:34:42,704 [INFO]   TV 1D: ✗
+2026-04-21 18:34:42,704 [ERROR] $GC=F: possibly delisted; no price data found  (period=10d)
+2026-04-21 18:34:42,707 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,709 [WARNING] TV fetch failed [TVC:GOLD 4H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,709 [ERROR] All TV sources failed for 4H
+2026-04-21 18:34:42,709 [INFO]   TV 4H: ✗
+2026-04-21 18:34:42,710 [ERROR] 
+1 Failed download:
+2026-04-21 18:34:42,711 [ERROR] ['GC=F']: possibly delisted; no price data found  (period=10d)
+2026-04-21 18:34:42,711 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,739 [ERROR] $GC=F: possibly delisted; no price data found  (period=10d)
+2026-04-21 18:34:42,740 [ERROR] 
+1 Failed download:
+2026-04-21 18:34:42,741 [ERROR] ['GC=F']: possibly delisted; no price data found  (period=10d)
+2026-04-21 18:34:42,801 [INFO]   OHLCV h1: ✗
+2026-04-21 18:34:42,804 [ERROR] $GC=F: possibly delisted; no price data found  (period=5d)
+2026-04-21 18:34:42,812 [ERROR] 
+1 Failed download:
+2026-04-21 18:34:42,812 [ERROR] ['GC=F']: possibly delisted; no price data found  (period=5d)
+2026-04-21 18:34:42,815 [INFO]   OHLCV m15: ✗
+2026-04-21 18:34:42,815 [ERROR] Cannot determine current price
+2026-04-21 18:34:42,815 [ERROR] Failed to build snapshot
+2026-04-21 18:34:42,822 [INFO]   OHLCV h1: ✗
+2026-04-21 18:34:42,824 [ERROR] $GC=F: possibly delisted; no price data found  (period=5d)
+2026-04-21 18:34:42,832 [ERROR] 
+1 Failed download:
+2026-04-21 18:34:42,832 [ERROR] ['GC=F']: possibly delisted; no price data found  (period=5d)
+2026-04-21 18:34:42,835 [INFO]   OHLCV m15: ✗
+2026-04-21 18:34:42,835 [ERROR] Cannot determine current price
+2026-04-21 18:34:42,835 [ERROR] Failed to build snapshot
+2026-04-21 18:34:42,869 [WARNING] TV fetch failed [TVC:GOLD 1H]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,869 [ERROR] All TV sources failed for 1H
+2026-04-21 18:34:42,869 [INFO]   TV 1H: ✗
+2026-04-21 18:34:42,870 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /forex/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,871 [WARNING] TV fetch failed [TVC:GOLD 15M]: HTTPSConnectionPool(host='scanner.tradingview.com', port=443): Max retries exceeded with url: /cfd/scan (Caused by NameResolutionError("HTTPSConnection(host='scanner.tradingview.com', port=443): Failed to resolve 'scanner.tradingview.com' ([Errno -2] Name or service not known)"))
+2026-04-21 18:34:42,871 [ERROR] All TV sources failed for 15M
+2026-04-21 18:34:42,871 [INFO]   TV 15M: ✗
+2026-04-21 18:34:42,871 [INFO] Fetching OHLCV candles...
+2026-04-21 18:34:42,926 [ERROR] $GC=F: possibly delisted; no price data found  (period=10d)
+2026-04-21 18:34:42,926 [ERROR] 
+1 Failed download:
+2026-04-21 18:34:42,927 [ERROR] ['GC=F']: possibly delisted; no price data found  (period=10d)
+2026-04-21 18:34:42,962 [INFO]   OHLCV h1: ✗
+2026-04-21 18:34:42,965 [ERROR] $GC=F: possibly delisted; no price data found  (period=5d)
+2026-04-21 18:34:42,973 [ERROR] 
+1 Failed download:
+2026-04-21 18:34:42,973 [ERROR] ['GC=F']: possibly delisted; no price data found  (period=5d)
+2026-04-21 18:34:42,975 [INFO]   OHLCV m15: ✗
+2026-04-21 18:34:42,975 [ERROR] Cannot determine current price
+2026-04-21 18:34:42,975 [ERROR] Failed to build snapshot
+2026-04-21 18:49:42,476 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:49:42,481 [INFO] BOT CYCLE START
+2026-04-21 18:49:42,481 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:49:42,481 [INFO] Fetching TradingView data...
+2026-04-21 18:49:42,925 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:49:42,934 [INFO] BOT CYCLE START
+2026-04-21 18:49:42,934 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:49:42,935 [INFO] Fetching TradingView data...
+2026-04-21 18:49:42,940 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:49:42,944 [INFO] BOT CYCLE START
+2026-04-21 18:49:42,944 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:49:42,945 [INFO] Fetching TradingView data...
+2026-04-21 18:49:42,958 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 18:49:43,082 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:49:43,089 [INFO] BOT CYCLE START
+2026-04-21 18:49:43,089 [INFO] ══════════════════════════════════════════════════
+2026-04-21 18:49:43,089 [INFO] Fetching TradingView data...
+2026-04-21 18:49:43,308 [INFO]   TV 1D: ✓
+2026-04-21 18:49:43,653 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 18:49:43,672 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 18:49:43,687 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 18:49:43,948 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 18:49:44,040 [INFO]   TV 1D: ✓
+2026-04-21 18:49:44,043 [INFO]   TV 1D: ✓
+2026-04-21 18:49:44,045 [INFO]   TV 1D: ✓
+2026-04-21 18:49:44,334 [INFO]   TV 4H: ✓
+2026-04-21 18:49:44,399 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 18:49:44,410 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 18:49:44,765 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 18:49:44,769 [INFO]   TV 4H: ✓
+2026-04-21 18:49:44,770 [INFO]   TV 4H: ✓
+2026-04-21 18:49:44,877 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 18:49:45,149 [INFO]   TV 1H: ✓
+2026-04-21 18:49:45,154 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 18:49:45,163 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 18:49:45,645 [INFO]   TV 4H: ✓
+2026-04-21 18:49:45,874 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 18:49:46,089 [INFO]   TV 1H: ✓
+2026-04-21 18:49:46,273 [INFO]   TV 1H: ✓
+2026-04-21 18:49:46,274 [INFO]   TV 15M: ✓
+2026-04-21 18:49:46,274 [INFO] Fetching OHLCV candles...
+2026-04-21 18:49:46,283 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 18:49:46,458 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 18:49:46,608 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 18:49:46,635 [INFO]   TV 1H: ✓
+2026-04-21 18:49:46,822 [INFO]   TV 15M: ✓
+2026-04-21 18:49:46,822 [INFO] Fetching OHLCV candles...
+2026-04-21 18:49:46,994 [INFO]   OHLCV h1: ✓ 163 bars
+2026-04-21 18:49:46,999 [INFO]   TV 15M: ✓
+2026-04-21 18:49:46,999 [INFO] Fetching OHLCV candles...
+2026-04-21 18:49:47,015 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 18:49:47,149 [INFO]   OHLCV h1: ✓ 163 bars
+2026-04-21 18:49:47,203 [INFO]   OHLCV m15: ✓ 281 bars
+2026-04-21 18:49:47,209 [INFO] Price: $4796.28 | Session: London
+2026-04-21 18:49:47,209 [INFO] Sending prompt to Gemini...
+2026-04-21 18:49:47,443 [INFO]   OHLCV h1: ✓ 163 bars
+2026-04-21 18:49:47,447 [INFO]   OHLCV m15: ✓ 281 bars
+2026-04-21 18:49:47,452 [INFO] Price: $4796.28 | Session: London
+2026-04-21 18:49:47,453 [INFO] Sending prompt to Gemini...
+2026-04-21 18:49:47,595 [INFO]   TV 15M: ✓
+2026-04-21 18:49:47,595 [INFO] Fetching OHLCV candles...
+2026-04-21 18:49:47,886 [INFO]   OHLCV m15: ✓ 281 bars
+2026-04-21 18:49:47,893 [INFO] Price: $4796.28 | Session: London
+2026-04-21 18:49:47,893 [INFO] Sending prompt to Gemini...
+2026-04-21 18:49:48,084 [INFO]   OHLCV h1: ✓ 163 bars
+2026-04-21 18:49:48,242 [INFO]   OHLCV m15: ✓ 281 bars
+2026-04-21 18:49:48,249 [INFO] Price: $4796.28 | Session: London
+2026-04-21 18:49:48,249 [INFO] Sending prompt to Gemini...
+2026-04-21 18:50:09,038 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BULLISH
+SETUP: 4H EMA 200 liquidity sweep + 15M HH/HL structure shift
+ENTRY: 4794.00
+STOP LOSS: 4784.00
+TP1: 4804.00
+TP2: 4814.00
+TP3: 4824.00
+RISK-REWARD: 1:3.0
+CONFIDENCE: 85%
+SESSION: London
+INVALIDATION: 4774.00
+REASON: Macro bias remains bullish as price rejected the confluence of the 1D EMA 50 (4783) and 4H EMA 200 (4784). After sweeping liquidity below the 4H EMA cluster at 4774.72, the 15M timeframe confirmed a bullish market structure shift with new higher highs. The entry targets a retest of the 15M EMA 50 to capture momentum toward the 1H bearish Fair Value Gaps and 4H supply zones.
+
+2026-04-21 18:50:11,377 [INFO] ✅ Telegram Sent with Chart
+2026-04-21 18:50:11,382 [INFO] Signal sent! Conf=85% | Entry=4794.0
+2026-04-21 18:50:11,528 [INFO] AI result:
+NO TRADE - Conflicting market structure across timeframes (1H Bearish vs 15M Bullish) and price trapped within a 4H Bearish Order Block without a confirmed liquidity sweep.
+
+2026-04-21 18:50:11,528 [INFO] No valid signal: Conflicting market structure across timeframes (1H Bearish vs 15M Bullish) and price trapped within 
+2026-04-21 18:50:28,142 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BULLISH
+SETUP: 4H EMA 200 bounce + 1H internal SSL sweep + 15M HH/HL structure shift
+ENTRY: 4793.50
+STOP LOSS: 4783.50
+TP1: 4803.50
+TP2: 4813.50
+TP3: 4823.50
+RISK-REWARD: 1:3.0
+CONFIDENCE: 85%
+SESSION: London
+INVALIDATION: 4783.50
+REASON: Macro bias on 1D remains strongly bullish with price holding above EMA 20/50. The recent dip to 4774.72 swept internal sell-side liquidity and tested the 4H EMA 200 support (4784.07) before showing a 15M bullish market structure shift. The entry targets a return to the 1H/4H premium fair value gaps after the successful defense of institutional support.
+
+2026-04-21 18:50:30,878 [INFO] ✅ Telegram Sent with Chart
+2026-04-21 18:50:30,879 [INFO] Signal sent! Conf=85% | Entry=4793.5
+2026-04-21 18:59:47,266 [ERROR] Gemini error: 504 Deadline Exceeded
+2026-04-21 18:59:47,271 [INFO] AI result:
+NO TRADE - AI unavailable
+
+2026-04-21 18:59:47,271 [INFO] No valid signal: AI unavailable
+2026-04-21 19:05:11,494 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:05:11,503 [INFO] BOT CYCLE START
+2026-04-21 19:05:11,503 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:05:11,504 [INFO] Fetching TradingView data...
+2026-04-21 19:05:11,633 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:05:11,641 [INFO] BOT CYCLE START
+2026-04-21 19:05:11,641 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:05:11,642 [INFO] Fetching TradingView data...
+2026-04-21 19:05:12,031 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 19:05:12,139 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 19:05:12,363 [INFO]   TV 1D: ✓
+2026-04-21 19:05:12,539 [INFO]   TV 1D: ✓
+2026-04-21 19:05:12,715 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 19:05:12,850 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 19:05:13,061 [INFO]   TV 4H: ✓
+2026-04-21 19:05:13,233 [INFO]   TV 4H: ✓
+2026-04-21 19:05:13,431 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 19:05:13,643 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 19:05:13,857 [INFO]   TV 1H: ✓
+2026-04-21 19:05:14,214 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 19:05:14,588 [INFO]   TV 15M: ✓
+2026-04-21 19:05:14,588 [INFO] Fetching OHLCV candles...
+2026-04-21 19:05:14,996 [INFO]   TV 1H: ✓
+2026-04-21 19:05:15,047 [INFO]   OHLCV h1: ✓ 163 bars
+2026-04-21 19:05:15,213 [INFO]   OHLCV m15: ✓ 282 bars
+2026-04-21 19:05:15,219 [INFO] Price: $4793.42 | Session: London
+2026-04-21 19:05:15,220 [INFO] Sending prompt to Gemini...
+2026-04-21 19:05:15,362 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 19:05:15,711 [INFO]   TV 15M: ✓
+2026-04-21 19:05:15,711 [INFO] Fetching OHLCV candles...
+2026-04-21 19:05:17,138 [INFO]   OHLCV h1: ✓ 163 bars
+2026-04-21 19:05:17,293 [INFO]   OHLCV m15: ✓ 282 bars
+2026-04-21 19:05:17,299 [INFO] Price: $4793.42 | Session: London
+2026-04-21 19:05:17,300 [INFO] Sending prompt to Gemini...
+2026-04-21 19:05:27,859 [INFO] AI result:
+NO TRADE - Contradictory timeframe alignment (1D Bullish vs. 1H/4H Bearish) and 8 equal lows (EQL) at 4790.8 suggesting a pending liquidity sweep.
+
+2026-04-21 19:05:27,859 [INFO] No valid signal: Contradictory timeframe alignment (1D Bullish vs. 1H/4H Bearish) and 8 equal lows (EQL) at 4790.8 su
+2026-04-21 19:05:30,989 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:05:30,995 [INFO] BOT CYCLE START
+2026-04-21 19:05:30,995 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:05:30,996 [INFO] Fetching TradingView data...
+2026-04-21 19:05:31,209 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:05:31,619 [INFO]   TV 1D: ✓
+2026-04-21 19:05:32,808 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:05:32,949 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:05:32,950 [ERROR] All TV sources failed for 4H
+2026-04-21 19:05:32,950 [INFO]   TV 4H: ✗
+2026-04-21 19:05:33,089 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:05:33,259 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:05:33,260 [ERROR] All TV sources failed for 1H
+2026-04-21 19:05:33,260 [INFO]   TV 1H: ✗
+2026-04-21 19:05:33,396 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:05:33,532 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:05:33,537 [ERROR] All TV sources failed for 15M
+2026-04-21 19:05:33,537 [INFO]   TV 15M: ✗
+2026-04-21 19:05:33,537 [INFO] Fetching OHLCV candles...
+2026-04-21 19:05:34,048 [INFO]   OHLCV h1: ✓ 163 bars
+2026-04-21 19:05:34,250 [INFO]   OHLCV m15: ✓ 282 bars
+2026-04-21 19:05:34,251 [ERROR] Cannot determine current price
+2026-04-21 19:05:34,251 [ERROR] Failed to build snapshot
+2026-04-21 19:05:49,199 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BULLISH
+SETUP: 15M SSL (EQL) sweep into 4H EMA50/200 confluence zone
+ENTRY: 4783.50
+STOP LOSS: 4772.50
+TP1: 4794.50
+TP2: 4805.50
+TP3: 4816.50
+RISK-REWARD: 1:3
+CONFIDENCE: 75%
+SESSION: London
+INVALIDATION: Hourly candle close below 4771.53
+REASON: Macro bias remains bullish (1D EMA stack) with price currently trading in a 4H discount zone. The presence of 8 Equal Lows (EQL) at 4790.8 provides a clear sell-side liquidity pool that institutions are likely to sweep before continuing the higher-timeframe trend. We enter at the confluence of the 4H EMA50/EMA200 support cluster immediately after the liquidity grab to capitalize on the anticipated reversal.
+
+2026-04-21 19:05:52,067 [INFO] ✅ Telegram Sent with Chart
+2026-04-21 19:05:52,068 [INFO] Signal sent! Conf=75% | Entry=4783.5
+2026-04-21 19:14:48,033 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:14:48,050 [INFO] BOT CYCLE START
+2026-04-21 19:14:48,051 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:14:48,052 [INFO] Fetching TradingView data...
+2026-04-21 19:14:49,669 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 19:14:50,045 [INFO]   TV 1D: ✓
+2026-04-21 19:14:50,486 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 19:14:50,911 [INFO]   TV 4H: ✓
+2026-04-21 19:14:51,315 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 19:14:51,696 [INFO]   TV 1H: ✓
+2026-04-21 19:14:52,159 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 19:14:52,560 [INFO]   TV 15M: ✓
+2026-04-21 19:14:52,560 [INFO] Fetching OHLCV candles...
+2026-04-21 19:14:53,634 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 19:14:53,831 [INFO]   OHLCV m15: ✓ 283 bars
+2026-04-21 19:14:53,837 [INFO] Price: $4792.14 | Session: London
+2026-04-21 19:14:53,837 [INFO] Sending prompt to Gemini...
+2026-04-21 19:16:31,839 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BULLISH
+CONFLUENCE: 4H EMA 50/200 Cluster + 1D Macro Bullish Trend + 15M SSL Liquidity Sweep + 1H BB Lower
+ENTRY: 4784.50
+STOP LOSS: 4771.50
+TP1: 4800.00
+TP2: 4818.00
+TP3: 4833.00
+RISK-REWARD: 1:3.73
+CONFIDENCE: 82%
+REASON: Macro trend on 1D remains strongly bullish (Price > EMA 50/100). The current intraday sell-off is viewed as a deep retracement into a high-confluence support zone where the 4H EMA 50 (4781) and 4H EMA 200 (4784) converge. We anticipate a sweep of the 15M SSL (4790.8) to mitigate the 4H discount zone before a reversal, aligning with the 4H HH+HL bullish structure.
+
+2026-04-21 19:16:34,495 [INFO] ✅ Telegram Sent with Chart
+2026-04-21 19:16:34,498 [INFO] Signal sent! Conf=82% | Entry=4784.5
+2026-04-21 19:20:28,566 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:20:28,586 [INFO] BOT CYCLE START
+2026-04-21 19:20:28,587 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:20:28,588 [INFO] Fetching TradingView data...
+2026-04-21 19:20:29,331 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 19:20:29,707 [INFO]   TV 1D: ✓
+2026-04-21 19:20:30,220 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 19:20:30,731 [INFO]   TV 4H: ✓
+2026-04-21 19:20:34,965 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:20:34,975 [INFO] BOT CYCLE START
+2026-04-21 19:20:34,975 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:20:34,976 [INFO] Fetching TradingView data...
+2026-04-21 19:20:36,192 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 19:20:36,205 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 19:20:36,519 [INFO]   TV 1H: ✓
+2026-04-21 19:20:36,580 [INFO]   TV 1D: ✓
+2026-04-21 19:20:36,910 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 19:20:36,971 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 19:20:37,317 [INFO]   TV 15M: ✓
+2026-04-21 19:20:37,317 [INFO] Fetching OHLCV candles...
+2026-04-21 19:20:37,879 [INFO]   TV 4H: ✓
+2026-04-21 19:20:38,252 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 19:20:38,310 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 19:20:38,467 [INFO]   OHLCV m15: ✓ 283 bars
+2026-04-21 19:20:38,475 [INFO] Price: $4783.68 | Session: London
+2026-04-21 19:20:38,476 [INFO] Sending prompt to Gemini...
+2026-04-21 19:20:38,725 [INFO]   TV 1H: ✓
+2026-04-21 19:20:39,235 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 19:20:40,145 [INFO]   TV 15M: ✓
+2026-04-21 19:20:40,145 [INFO] Fetching OHLCV candles...
+2026-04-21 19:20:40,592 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 19:20:40,778 [INFO]   OHLCV m15: ✓ 283 bars
+2026-04-21 19:20:40,785 [INFO] Price: $4783.68 | Session: London
+2026-04-21 19:20:40,786 [INFO] Sending prompt to Gemini...
+2026-04-21 19:20:52,777 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:20:52,794 [INFO] BOT CYCLE START
+2026-04-21 19:20:52,794 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:20:52,796 [INFO] Fetching TradingView data...
+2026-04-21 19:20:53,170 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:20:53,332 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:20:53,332 [ERROR] All TV sources failed for 1D
+2026-04-21 19:20:53,333 [INFO]   TV 1D: ✗
+2026-04-21 19:20:53,494 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:20:53,664 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:20:53,664 [ERROR] All TV sources failed for 4H
+2026-04-21 19:20:53,665 [INFO]   TV 4H: ✗
+2026-04-21 19:20:54,883 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:20:56,135 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:20:56,135 [ERROR] All TV sources failed for 1H
+2026-04-21 19:20:56,135 [INFO]   TV 1H: ✗
+2026-04-21 19:20:56,304 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:20:56,464 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:20:56,465 [ERROR] All TV sources failed for 15M
+2026-04-21 19:20:56,465 [INFO]   TV 15M: ✗
+2026-04-21 19:20:56,465 [INFO] Fetching OHLCV candles...
+2026-04-21 19:20:56,941 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 19:20:57,123 [INFO]   OHLCV m15: ✓ 283 bars
+2026-04-21 19:20:57,123 [INFO] Using yfinance fallback for current price
+2026-04-21 19:20:57,129 [INFO] Price: $4813.0 | Session: London
+2026-04-21 19:20:57,130 [INFO] Sending prompt to Gemini...
+2026-04-21 19:21:12,500 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BULLISH
+SETUP: 4H Bullish OB retest + 15M Bullish Breaker interaction in discount zone
+ENTRY: 4808.0
+STOP LOSS: 4788.0
+TP1: 4828.0
+TP2: 4848.0
+TP3: 4868.0
+RISK-REWARD: 1:3
+CONFIDENCE: 80%
+SESSION: London
+INVALIDATION: Price closing below 15M Swing Low at 4790.8
+REASON: Macro and local structure are aligned bullish with HH/HL confirmed on 4H and 15M timeframes. Price has retraced into a discount zone, specifically targeting the 4H Bullish OB [4800.0–4808.3] and 15M Bullish FVG [4803.9–4811.3]. The entry at 4808.0 capitalizes on the S/R flip of the 15M Bearish OB, now acting as a breaker, to target the external range liquidity.
+
+2026-04-21 19:21:14,780 [INFO] AI result:
+NO TRADE - ATR values are 0.0 and price is compressed at a high-confluence HTF EMA junction (4H EMA 50/200 and 1D EMA 50), creating an unfavorable risk-reward environment without clear structural displacement.
+
+2026-04-21 19:21:14,780 [INFO] No valid signal: ATR values are 0.0 and price is compressed at a highconfluence HTF EMA junction (4H EMA 50/200 and 1
+2026-04-21 19:21:15,060 [INFO] ✅ Telegram Sent with Chart
+2026-04-21 19:21:15,063 [INFO] Signal sent! Conf=80% | Entry=4808.0
+2026-04-21 19:21:21,704 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BEARISH
+SETUP: 15M CHoCH after BSL sweep + Retest of 4H Bearish OB
+ENTRY: 4793.50
+STOP LOSS: 4805.50
+TP1: 4781.50
+TP2: 4769.50
+TP3: 4757.50
+RISK-REWARD: 1:3
+CONFIDENCE: 75%
+SESSION: London
+INVALIDATION: 4812.20
+REASON: Macro bias is showing exhaustion at daily highs with the 15M timeframe confirming a bearish Change of Character (CHoCH) by breaking the 4790.8 swing low. Price is currently retracing into the 4H Bearish OB [4793.3–4812.2] which aligns with 1H EMA20 resistance. The setup targets liquidity resting at the 1H EMA200 and the 4H structural HL zone.
+
+2026-04-21 19:21:24,175 [INFO] ✅ Telegram Sent with Chart
+2026-04-21 19:21:24,178 [INFO] Signal sent! Conf=75% | Entry=4793.5
+2026-04-21 19:31:34,602 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:31:34,615 [INFO] BOT CYCLE START
+2026-04-21 19:31:34,615 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:31:34,617 [INFO] Fetching TradingView data...
+2026-04-21 19:31:35,089 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 19:31:36,544 [INFO]   TV 1D: ✓
+2026-04-21 19:31:36,933 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 19:31:42,339 [INFO]   TV 4H: ✓
+2026-04-21 19:31:42,770 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 19:31:43,283 [INFO]   TV 1H: ✓
+2026-04-21 19:31:43,794 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 19:31:44,178 [INFO]   TV 15M: ✓
+2026-04-21 19:31:44,178 [INFO] Fetching OHLCV candles...
+2026-04-21 19:31:44,588 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 19:31:44,894 [INFO]   OHLCV m15: ✓ 284 bars
+2026-04-21 19:31:44,900 [INFO] Price: $4775.34 | Session: London
+2026-04-21 19:31:44,900 [INFO] Sending prompt to Gemini...
+2026-04-21 19:32:07,790 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BEARISH
+CONFLUENCE: 15M BOS (Break of 4790.8 SSL) + 4H Breaker Block (4800.0) + 1H EMA 20/50 Resistance + Negative MACD Histogram
+ENTRY: 4795.00
+STOP LOSS: 4812.00
+TP1: 4775.00
+TP2: 4765.00
+TP3: 4752.00
+RISK-REWARD: 1:2.5
+CONFIDENCE: 82%
+REASON: Macro 1D bias is bullish, but 1H/15M timeframes show a shift in market structure (CHoCH/BOS) below 4790.8. Price is currently testing the 1H EMA200 support. A corrective rally into the 4795-4800 zone (confluence of broken support, 1H EMAs, and 15M Bearish FVG) offers a high-probability short entry to target the 1D EMA20 (4764) and 4H Swing Low (4752).
+
+2026-04-21 19:32:10,272 [INFO] ✅ Telegram Sent with Chart
+2026-04-21 19:32:10,275 [INFO] Signal sent! Conf=82% | Entry=4795.0
+2026-04-21 19:36:15,176 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:36:15,196 [INFO] BOT CYCLE START
+2026-04-21 19:36:15,197 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:36:15,199 [INFO] Fetching TradingView data...
+2026-04-21 19:36:16,121 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:16,279 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:16,280 [ERROR] All TV sources failed for 1D
+2026-04-21 19:36:16,280 [INFO]   TV 1D: ✗
+2026-04-21 19:36:16,447 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:16,624 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:16,624 [ERROR] All TV sources failed for 4H
+2026-04-21 19:36:16,625 [INFO]   TV 4H: ✗
+2026-04-21 19:36:16,788 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:16,954 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:16,955 [ERROR] All TV sources failed for 1H
+2026-04-21 19:36:16,955 [INFO]   TV 1H: ✗
+2026-04-21 19:36:17,109 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:17,273 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:17,278 [ERROR] All TV sources failed for 15M
+2026-04-21 19:36:17,278 [INFO]   TV 15M: ✗
+2026-04-21 19:36:17,278 [INFO] Fetching OHLCV candles...
+2026-04-21 19:36:18,805 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 19:36:18,985 [INFO]   OHLCV m15: ✓ 284 bars
+2026-04-21 19:36:18,985 [INFO] Using yfinance fallback for current price
+2026-04-21 19:36:18,992 [INFO] Price: $4801.4 | Session: London
+2026-04-21 19:36:18,992 [INFO] Sending prompt to Gemini...
+2026-04-21 19:36:24,297 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:36:24,307 [INFO] BOT CYCLE START
+2026-04-21 19:36:24,307 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:36:24,309 [INFO] Fetching TradingView data...
+2026-04-21 19:36:24,595 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:24,737 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:24,738 [ERROR] All TV sources failed for 1D
+2026-04-21 19:36:24,738 [INFO]   TV 1D: ✗
+2026-04-21 19:36:25,168 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:25,331 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:25,332 [ERROR] All TV sources failed for 4H
+2026-04-21 19:36:25,333 [INFO]   TV 4H: ✗
+2026-04-21 19:36:25,475 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:25,646 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:25,647 [ERROR] All TV sources failed for 1H
+2026-04-21 19:36:25,647 [INFO]   TV 1H: ✗
+2026-04-21 19:36:25,808 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:25,958 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:36:25,963 [ERROR] All TV sources failed for 15M
+2026-04-21 19:36:25,963 [INFO]   TV 15M: ✗
+2026-04-21 19:36:25,963 [INFO] Fetching OHLCV candles...
+2026-04-21 19:36:26,404 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 19:36:26,612 [INFO]   OHLCV m15: ✓ 284 bars
+2026-04-21 19:36:26,612 [ERROR] Cannot determine current price
+2026-04-21 19:36:26,612 [ERROR] Failed to build snapshot
+2026-04-21 19:36:31,688 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BULLISH
+SETUP: 4H and 15M Bullish OB confluence retest in Discount zone
+ENTRY: 4801.4
+STOP LOSS: 4789.0
+TP1: 4813.8
+TP2: 4826.2
+TP3: 4838.6
+RISK-REWARD: 1:3
+CONFIDENCE: 75%
+SESSION: London
+INVALIDATION: Price close below 15M Swing Low at 4790.8
+REASON: Macro structure is bullish on the 4H timeframe with price retracing into a high-probability Bullish OB [4800.0–4808.3]. Price is currently situated in the deep discount of the 15M swing, having mitigated the 15M Bullish OB confluence. The trade targets a move back toward the 15M Swing High while protecting capital below the confirmed SSL at 4790.8.
+
+2026-04-21 19:36:34,143 [INFO] ✅ Telegram Sent with Chart
+2026-04-21 19:36:34,147 [INFO] Signal sent! Conf=75% | Entry=4801.4
+2026-04-21 19:47:10,386 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:47:10,401 [INFO] BOT CYCLE START
+2026-04-21 19:47:10,401 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:47:10,402 [INFO] Fetching TradingView data...
+2026-04-21 19:47:11,214 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 19:47:11,563 [INFO]   TV 1D: ✓
+2026-04-21 19:47:12,030 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 19:47:12,444 [INFO]   TV 4H: ✓
+2026-04-21 19:47:12,994 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 19:47:13,425 [INFO]   TV 1H: ✓
+2026-04-21 19:47:13,844 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 19:47:14,251 [INFO]   TV 15M: ✓
+2026-04-21 19:47:14,251 [INFO] Fetching OHLCV candles...
+2026-04-21 19:47:14,683 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 19:47:14,864 [INFO]   OHLCV m15: ✓ 285 bars
+2026-04-21 19:47:14,869 [INFO] Price: $4780.49 | Session: London
+2026-04-21 19:47:14,869 [INFO] Sending prompt to Gemini...
+2026-04-21 19:47:46,772 [INFO] AI result:
+PAIR: XAUUSD
+BIAS: BEARISH
+CONFLUENCE: 4H EMA 200 Break + 1D EMA 50 Rejection + 4H Bearish OB + 1H MACD/RSI Sell Momentum
+ENTRY: 4784.50
+STOP LOSS: 4798.50
+TP1: 4766.00
+TP2: 4752.00
+TP3: 4735.00
+RISK-REWARD: 1:2.3
+CONFIDENCE: 85%
+REASON: Macro Bias is shifting as price breaks below the 1D EMA 50 (4782.7) and 4H EMA 200 (4783.9). London session momentum is strongly bearish with 1H/15M EMAs acting as dynamic resistance. Entry on a retest of the broken confluence zone (EMA 200 + 1D EMA 50) targets the 4H SSL at 4752.0.
+
+2026-04-21 19:47:48,920 [INFO] ✅ Telegram Sent with Chart
+2026-04-21 19:47:48,923 [INFO] Signal sent! Conf=85% | Entry=4784.5
+2026-04-21 19:51:26,718 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:51:26,722 [INFO] BOT CYCLE START
+2026-04-21 19:51:26,722 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:51:26,722 [INFO] Fetching TradingView data...
+2026-04-21 19:51:26,982 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:27,132 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:27,133 [ERROR] All TV sources failed for 1D
+2026-04-21 19:51:27,133 [INFO]   TV 1D: ✗
+2026-04-21 19:51:27,311 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:27,470 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:27,471 [ERROR] All TV sources failed for 4H
+2026-04-21 19:51:27,471 [INFO]   TV 4H: ✗
+2026-04-21 19:51:27,612 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:27,768 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:27,769 [ERROR] All TV sources failed for 1H
+2026-04-21 19:51:27,769 [INFO]   TV 1H: ✗
+2026-04-21 19:51:27,941 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:28,098 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:28,099 [ERROR] All TV sources failed for 15M
+2026-04-21 19:51:28,099 [INFO]   TV 15M: ✗
+2026-04-21 19:51:28,099 [INFO] Fetching OHLCV candles...
+2026-04-21 19:51:28,308 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 19:51:28,447 [INFO]   OHLCV m15: ✓ 285 bars
+2026-04-21 19:51:28,448 [ERROR] Cannot determine current price
+2026-04-21 19:51:28,448 [ERROR] Failed to build snapshot
+2026-04-21 19:51:34,251 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:51:34,251 [INFO] BOT CYCLE START
+2026-04-21 19:51:34,251 [INFO] ══════════════════════════════════════════════════
+2026-04-21 19:51:34,251 [INFO] Fetching TradingView data...
+2026-04-21 19:51:34,401 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:35,632 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:35,633 [ERROR] All TV sources failed for 1D
+2026-04-21 19:51:35,633 [INFO]   TV 1D: ✗
+2026-04-21 19:51:36,848 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:37,012 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:37,013 [ERROR] All TV sources failed for 4H
+2026-04-21 19:51:37,013 [INFO]   TV 4H: ✗
+2026-04-21 19:51:37,164 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:37,322 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:37,323 [ERROR] All TV sources failed for 1H
+2026-04-21 19:51:37,323 [INFO]   TV 1H: ✗
+2026-04-21 19:51:37,477 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:37,639 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:51:37,640 [ERROR] All TV sources failed for 15M
+2026-04-21 19:51:37,640 [INFO]   TV 15M: ✗
+2026-04-21 19:51:37,640 [INFO] Fetching OHLCV candles...
+2026-04-21 19:51:37,814 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 19:51:37,992 [INFO]   OHLCV m15: ✓ 285 bars
+2026-04-21 19:51:37,992 [INFO] Using yfinance fallback for current price
+2026-04-21 19:51:37,996 [INFO] Price: $4800.0 | Session: London
+2026-04-21 19:51:37,996 [INFO] Sending prompt to Gemini...
+2026-04-21 19:51:52,365 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 7.639383659s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2026-04-21 19:51:52,365 [INFO] AI result:
+NO TRADE - AI unavailable
+
+2026-04-21 19:51:52,365 [INFO] No valid signal: AI unavailable
+2026-04-21 20:02:49,068 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:02:49,079 [INFO] BOT CYCLE START
+2026-04-21 20:02:49,079 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:02:49,081 [INFO] Fetching TradingView data...
+2026-04-21 20:02:49,588 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 20:02:50,006 [INFO]   TV 1D: ✓
+2026-04-21 20:02:50,387 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 20:02:50,795 [INFO]   TV 4H: ✓
+2026-04-21 20:02:51,174 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 20:02:51,554 [INFO]   TV 1H: ✓
+2026-04-21 20:02:51,946 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 20:02:52,346 [INFO]   TV 15M: ✓
+2026-04-21 20:02:52,346 [INFO] Fetching OHLCV candles...
+2026-04-21 20:02:53,950 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 20:02:54,140 [INFO]   OHLCV m15: ✓ 286 bars
+2026-04-21 20:02:54,144 [INFO] Price: $4782.73 | Session: London
+2026-04-21 20:02:54,145 [INFO] Sending prompt to Gemini...
+2026-04-21 20:02:54,571 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 5.445691599s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2026-04-21 20:02:54,571 [INFO] AI result:
+NO TRADE - AI unavailable
+
+2026-04-21 20:02:54,571 [INFO] No valid signal: AI unavailable
+2026-04-21 20:06:28,586 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:06:28,590 [INFO] BOT CYCLE START
+2026-04-21 20:06:28,591 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:06:28,591 [INFO] Fetching TradingView data...
+2026-04-21 20:06:29,017 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:29,169 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:29,174 [ERROR] All TV sources failed for 1D
+2026-04-21 20:06:29,174 [INFO]   TV 1D: ✗
+2026-04-21 20:06:29,302 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:29,460 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:29,461 [ERROR] All TV sources failed for 4H
+2026-04-21 20:06:29,461 [INFO]   TV 4H: ✗
+2026-04-21 20:06:29,622 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:29,788 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:29,788 [ERROR] All TV sources failed for 1H
+2026-04-21 20:06:29,789 [INFO]   TV 1H: ✗
+2026-04-21 20:06:29,951 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:30,114 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:30,114 [ERROR] All TV sources failed for 15M
+2026-04-21 20:06:30,114 [INFO]   TV 15M: ✗
+2026-04-21 20:06:30,115 [INFO] Fetching OHLCV candles...
+2026-04-21 20:06:30,571 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 20:06:30,787 [INFO]   OHLCV m15: ✓ 286 bars
+2026-04-21 20:06:30,787 [ERROR] Cannot determine current price
+2026-04-21 20:06:30,787 [ERROR] Failed to build snapshot
+2026-04-21 20:06:52,514 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:06:52,528 [INFO] BOT CYCLE START
+2026-04-21 20:06:52,528 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:06:52,529 [INFO] Fetching TradingView data...
+2026-04-21 20:06:52,846 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:53,001 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:53,001 [ERROR] All TV sources failed for 1D
+2026-04-21 20:06:53,005 [INFO]   TV 1D: ✗
+2026-04-21 20:06:53,166 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:53,330 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:53,335 [ERROR] All TV sources failed for 4H
+2026-04-21 20:06:53,335 [INFO]   TV 4H: ✗
+2026-04-21 20:06:53,491 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:53,648 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:53,653 [ERROR] All TV sources failed for 1H
+2026-04-21 20:06:53,653 [INFO]   TV 1H: ✗
+2026-04-21 20:06:53,805 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:53,964 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:06:53,968 [ERROR] All TV sources failed for 15M
+2026-04-21 20:06:53,969 [INFO]   TV 15M: ✗
+2026-04-21 20:06:53,969 [INFO] Fetching OHLCV candles...
+2026-04-21 20:06:54,480 [INFO]   OHLCV h1: ✓ 164 bars
+2026-04-21 20:06:54,655 [INFO]   OHLCV m15: ✓ 286 bars
+2026-04-21 20:06:54,656 [INFO] Using yfinance fallback for current price
+2026-04-21 20:06:54,662 [INFO] Price: $4798.7 | Session: London
+2026-04-21 20:06:54,662 [INFO] Sending prompt to Gemini...
+2026-04-21 20:06:55,115 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 4.905105163s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2026-04-21 20:06:55,115 [INFO] AI result:
+NO TRADE - AI unavailable
+
+2026-04-21 20:06:55,115 [INFO] No valid signal: AI unavailable
+2026-04-21 20:17:54,674 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:17:54,675 [INFO] BOT CYCLE START
+2026-04-21 20:17:54,675 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:17:54,675 [INFO] Fetching TradingView data...
+2026-04-21 20:17:55,117 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 20:17:55,527 [INFO]   TV 1D: ✓
+2026-04-21 20:17:55,930 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 20:17:56,299 [INFO]   TV 4H: ✓
+2026-04-21 20:17:56,761 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 20:17:57,160 [INFO]   TV 1H: ✓
+2026-04-21 20:17:57,574 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 20:17:57,984 [INFO]   TV 15M: ✓
+2026-04-21 20:17:57,984 [INFO] Fetching OHLCV candles...
+2026-04-21 20:17:58,202 [INFO]   OHLCV h1: ✓ 165 bars
+2026-04-21 20:17:58,387 [INFO]   OHLCV m15: ✓ 287 bars
+2026-04-21 20:17:58,391 [INFO] Price: $4770.58 | Session: London
+2026-04-21 20:17:58,391 [INFO] Sending prompt to Gemini...
+2026-04-21 20:17:58,865 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 1.181568519s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2026-04-21 20:17:58,865 [INFO] AI result:
+NO TRADE - AI unavailable
+
+2026-04-21 20:17:58,865 [INFO] No valid signal: AI unavailable
+2026-04-21 20:21:30,891 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:21:30,891 [INFO] BOT CYCLE START
+2026-04-21 20:21:30,891 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:21:30,891 [INFO] Fetching TradingView data...
+2026-04-21 20:21:31,096 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:31,242 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:31,242 [ERROR] All TV sources failed for 1D
+2026-04-21 20:21:31,242 [INFO]   TV 1D: ✗
+2026-04-21 20:21:31,430 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:31,580 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:31,581 [ERROR] All TV sources failed for 4H
+2026-04-21 20:21:31,581 [INFO]   TV 4H: ✗
+2026-04-21 20:21:31,750 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:31,901 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:31,902 [ERROR] All TV sources failed for 1H
+2026-04-21 20:21:31,902 [INFO]   TV 1H: ✗
+2026-04-21 20:21:32,062 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:32,224 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:32,225 [ERROR] All TV sources failed for 15M
+2026-04-21 20:21:32,225 [INFO]   TV 15M: ✗
+2026-04-21 20:21:32,225 [INFO] Fetching OHLCV candles...
+2026-04-21 20:21:32,445 [INFO]   OHLCV h1: ✓ 165 bars
+2026-04-21 20:21:32,621 [INFO]   OHLCV m15: ✓ 287 bars
+2026-04-21 20:21:32,621 [ERROR] Cannot determine current price
+2026-04-21 20:21:32,621 [ERROR] Failed to build snapshot
+2026-04-21 20:21:55,225 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:21:55,225 [INFO] BOT CYCLE START
+2026-04-21 20:21:55,225 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:21:55,225 [INFO] Fetching TradingView data...
+2026-04-21 20:21:55,384 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:55,541 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:55,542 [ERROR] All TV sources failed for 1D
+2026-04-21 20:21:55,542 [INFO]   TV 1D: ✗
+2026-04-21 20:21:55,695 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:55,856 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:55,860 [ERROR] All TV sources failed for 4H
+2026-04-21 20:21:55,860 [INFO]   TV 4H: ✗
+2026-04-21 20:21:56,012 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:56,171 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:56,171 [ERROR] All TV sources failed for 1H
+2026-04-21 20:21:56,171 [INFO]   TV 1H: ✗
+2026-04-21 20:21:56,373 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:56,528 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:56,528 [ERROR] All TV sources failed for 15M
+2026-04-21 20:21:56,529 [INFO]   TV 15M: ✗
+2026-04-21 20:21:56,529 [INFO] Fetching OHLCV candles...
+2026-04-21 20:21:56,734 [INFO]   OHLCV h1: ✓ 165 bars
+2026-04-21 20:21:56,948 [INFO]   OHLCV m15: ✓ 287 bars
+2026-04-21 20:21:56,948 [INFO] Using yfinance fallback for current price
+2026-04-21 20:21:56,952 [INFO] Price: $4787.5 | Session: London
+2026-04-21 20:21:56,952 [INFO] Sending prompt to Gemini...
+2026-04-21 20:21:57,335 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 2.671026461s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2026-04-21 20:21:57,336 [INFO] AI result:
+NO TRADE - AI unavailable
+
+2026-04-21 20:21:57,336 [INFO] No valid signal: AI unavailable
+2026-04-21 20:32:58,978 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:32:58,997 [INFO] BOT CYCLE START
+2026-04-21 20:32:58,997 [INFO] ══════════════════════════════════════════════════
+2026-04-21 20:32:58,998 [INFO] Fetching TradingView data...
+2026-04-21 20:33:04,984 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 20:33:05,628 [INFO]   TV 1D: ✓
+2026-04-21 20:33:06,186 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 20:33:06,746 [INFO]   TV 4H: ✓
+2026-04-21 20:33:07,095 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 20:33:07,563 [INFO]   TV 1H: ✓
+2026-04-21 20:33:07,973 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 20:33:08,385 [INFO]   TV 15M: ✓
+2026-04-21 20:33:08,385 [INFO] Fetching OHLCV candles...
+2026-04-21 20:33:13,873 [INFO]   OHLCV h1: ✓ 165 bars
+2026-04-21 20:33:14,071 [INFO]   OHLCV m15: ✓ 288 bars
+2026-04-21 20:33:14,078 [INFO] Price: $4779.83 | Session: London
+2026-04-21 20:33:14,079 [INFO] Sending prompt to Gemini...
+2026-04-21 20:33:14,538 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 45.473177391s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 45
+}
+]
+2026-04-21 20:33:14,538 [INFO] AI result:
+NO TRADE - AI unavailable
+
+2026-04-21 20:33:14,539 [INFO] No valid signal: AI unavailable

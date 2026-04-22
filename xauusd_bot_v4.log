@@ -1,0 +1,3151 @@
+2026-04-21 19:33:46,134 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 19:33:46,134 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 19:33:46,135 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 19:33:47,075 [INFO] Telegram polling started
+2026-04-21 19:33:47,075 [INFO] Telegram polling: active
+2026-04-21 19:33:47,076 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 19:33:47,076 [INFO] AUTO CYCLE START
+2026-04-21 19:33:47,076 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 19:33:47,076 [INFO] Fetching TradingView data...
+2026-04-21 19:33:47,530 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 19:33:47,690 [INFO] Command from 6017032889: /start
+2026-04-21 19:33:47,690 [INFO] Command from 6017032889: /start
+2026-04-21 19:33:47,690 [INFO] Command from 6017032889: 
+2026-04-21 19:33:47,690 [INFO] Command from 5365450663: /start
+2026-04-21 19:33:47,690 [INFO] Command from 8764016970: /start
+2026-04-21 19:33:47,690 [INFO] Command from 5365450663: /start
+2026-04-21 19:33:47,690 [INFO] Command from 7761858784: /start
+2026-04-21 19:33:47,690 [INFO] Command from 7761858784: /start
+2026-04-21 19:33:47,690 [INFO] Command from 8623742832: /start
+2026-04-21 19:33:47,927 [INFO]   TV 1D: ✓
+2026-04-21 19:33:49,373 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 19:33:49,751 [INFO]   TV 4H: ✓
+2026-04-21 19:33:50,161 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 19:33:51,615 [INFO]   TV 1H: ✓
+2026-04-21 19:33:52,100 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 19:33:52,516 [INFO]   TV 15M: ✓
+2026-04-21 19:33:52,516 [INFO] Fetching OHLCV data...
+2026-04-21 19:33:53,322 [INFO]   1H bars: 262
+2026-04-21 19:33:53,322 [INFO]   15M bars: 284
+2026-04-21 19:33:53,328 [INFO] Price: $4783.64 | NEUTRAL | Score: 1/10
+2026-04-21 19:33:53,329 [INFO] Confluence too low (1/10) — skip AI call
+2026-04-21 19:33:53,329 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 19:34:07,876 [INFO] Command from 6017032889: /help
+2026-04-21 19:34:12,365 [INFO] Command from 6017032889: /status
+2026-04-21 19:34:12,365 [INFO] /status from 6017032889
+2026-04-21 19:34:13,192 [INFO] Fetching TradingView data...
+2026-04-21 19:34:13,658 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:13,816 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:13,816 [ERROR] All TV sources failed for 1D
+2026-04-21 19:34:13,817 [INFO]   TV 1D: ✗
+2026-04-21 19:34:13,982 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:14,150 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:14,151 [ERROR] All TV sources failed for 4H
+2026-04-21 19:34:14,151 [INFO]   TV 4H: ✗
+2026-04-21 19:34:14,306 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:14,465 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:14,466 [ERROR] All TV sources failed for 1H
+2026-04-21 19:34:14,467 [INFO]   TV 1H: ✗
+2026-04-21 19:34:14,630 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:14,785 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:14,785 [ERROR] All TV sources failed for 15M
+2026-04-21 19:34:14,786 [INFO]   TV 15M: ✗
+2026-04-21 19:34:14,786 [INFO] Fetching OHLCV data...
+2026-04-21 19:34:15,249 [INFO]   1H bars: 262
+2026-04-21 19:34:15,249 [INFO]   15M bars: 284
+2026-04-21 19:34:19,691 [INFO] Command from 6017032889: /signal
+2026-04-21 19:34:19,691 [INFO] /signal from 6017032889
+2026-04-21 19:34:20,553 [INFO] Fetching TradingView data...
+2026-04-21 19:34:20,703 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:20,863 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:20,863 [ERROR] All TV sources failed for 1D
+2026-04-21 19:34:20,864 [INFO]   TV 1D: ✗
+2026-04-21 19:34:21,020 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:21,242 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:21,242 [ERROR] All TV sources failed for 4H
+2026-04-21 19:34:21,242 [INFO]   TV 4H: ✗
+2026-04-21 19:34:21,394 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:21,549 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:21,550 [ERROR] All TV sources failed for 1H
+2026-04-21 19:34:21,550 [INFO]   TV 1H: ✗
+2026-04-21 19:34:21,704 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:21,863 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 19:34:21,863 [ERROR] All TV sources failed for 15M
+2026-04-21 19:34:21,864 [INFO]   TV 15M: ✗
+2026-04-21 19:34:21,864 [INFO] Fetching OHLCV data...
+2026-04-21 19:34:22,200 [INFO]   1H bars: 262
+2026-04-21 19:34:22,200 [INFO]   15M bars: 284
+2026-04-21 19:34:22,206 [INFO] On-demand: $4803.9 | NEUTRAL | Score 1.3/10
+2026-04-21 19:34:22,522 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 37.462367216s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 37
+}
+]
+2026-04-21 19:34:22,522 [INFO] On-demand AI:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 37.462367216s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 37
+}
+]
+
+2026-04-21 19:34:23,642 [ERROR] Market summary error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 36.353428664s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2026-04-21 19:34:23,843 [INFO] Chart saved: latest_chart.png
+2026-04-21 19:39:08,526 [INFO] Command from 6017032889: /start
+2026-04-21 19:39:27,053 [INFO] Command from 6017032889: /start
+2026-04-21 19:48:53,434 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 19:48:53,438 [INFO] AUTO CYCLE START
+2026-04-21 19:48:53,438 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 19:48:53,438 [INFO] Fetching TradingView data...
+2026-04-21 19:48:53,878 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 19:48:54,275 [INFO]   TV 1D: ✓
+2026-04-21 19:48:54,701 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 19:48:55,118 [INFO]   TV 4H: ✓
+2026-04-21 19:48:55,522 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 19:48:55,934 [INFO]   TV 1H: ✓
+2026-04-21 19:48:56,344 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 19:48:56,756 [INFO]   TV 15M: ✓
+2026-04-21 19:48:56,756 [INFO] Fetching OHLCV data...
+2026-04-21 19:48:58,995 [INFO]   1H bars: 262
+2026-04-21 19:48:58,995 [INFO]   15M bars: 285
+2026-04-21 19:48:59,005 [INFO] Price: $4781.39 | BEARISH | Score: 3.0/10
+2026-04-21 19:48:59,005 [INFO] Confluence too low (3.0/10) — skip AI call
+2026-04-21 19:58:13,105 [INFO] Command from 6017032889: /start
+2026-04-21 20:03:59,108 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:03:59,108 [INFO] AUTO CYCLE START
+2026-04-21 20:03:59,108 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:03:59,108 [INFO] Fetching TradingView data...
+2026-04-21 20:03:59,524 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 20:03:59,922 [INFO]   TV 1D: ✓
+2026-04-21 20:04:00,261 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 20:04:00,674 [INFO]   TV 4H: ✓
+2026-04-21 20:04:01,065 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 20:04:01,452 [INFO]   TV 1H: ✓
+2026-04-21 20:04:01,790 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 20:04:02,173 [INFO]   TV 15M: ✓
+2026-04-21 20:04:02,173 [INFO] Fetching OHLCV data...
+2026-04-21 20:04:02,589 [INFO]   1H bars: 262
+2026-04-21 20:04:02,589 [INFO]   15M bars: 286
+2026-04-21 20:04:02,596 [INFO] Price: $4783.52 | NEUTRAL | Score: 1/10
+2026-04-21 20:04:02,596 [INFO] Confluence too low (1/10) — skip AI call
+2026-04-21 20:19:02,698 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:19:02,699 [INFO] AUTO CYCLE START
+2026-04-21 20:19:02,699 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:19:02,699 [INFO] Fetching TradingView data...
+2026-04-21 20:19:04,201 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 20:19:04,590 [INFO]   TV 1D: ✓
+2026-04-21 20:19:04,967 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 20:19:05,358 [INFO]   TV 4H: ✓
+2026-04-21 20:19:05,768 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 20:19:06,279 [INFO]   TV 1H: ✓
+2026-04-21 20:19:06,690 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 20:19:07,101 [INFO]   TV 15M: ✓
+2026-04-21 20:19:07,101 [INFO] Fetching OHLCV data...
+2026-04-21 20:19:07,490 [INFO]   1H bars: 263
+2026-04-21 20:19:07,490 [INFO]   15M bars: 287
+2026-04-21 20:19:07,496 [INFO] Price: $4769.47 | BEARISH | Score: 5.5/10
+2026-04-21 20:19:07,752 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 52.256993452s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 52
+}
+]
+2026-04-21 20:19:07,752 [INFO] AI result:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 52.256993452s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 52
+}
+]
+
+2026-04-21 20:19:07,752 [INFO] AI returned NO TRADE or low confidence
+2026-04-21 20:19:32,071 [INFO] Command from 6017032889: /start
+2026-04-21 20:19:54,590 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:19:54,590 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 20:19:54,590 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:19:55,422 [INFO] Telegram polling started
+2026-04-21 20:19:55,422 [INFO] Telegram polling: active
+2026-04-21 20:19:55,423 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:19:55,423 [INFO] AUTO CYCLE START
+2026-04-21 20:19:55,423 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:19:55,423 [INFO] Fetching TradingView data...
+2026-04-21 20:19:55,595 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:19:55,752 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:19:55,752 [ERROR] All TV sources failed for 1D
+2026-04-21 20:19:55,752 [INFO]   TV 1D: ✗
+2026-04-21 20:19:55,912 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:19:56,078 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:19:56,079 [ERROR] All TV sources failed for 4H
+2026-04-21 20:19:56,079 [INFO]   TV 4H: ✗
+2026-04-21 20:19:56,237 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:19:56,391 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:19:56,392 [ERROR] All TV sources failed for 1H
+2026-04-21 20:19:56,392 [INFO]   TV 1H: ✗
+2026-04-21 20:19:56,551 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:19:56,708 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:19:56,709 [ERROR] All TV sources failed for 15M
+2026-04-21 20:19:56,709 [INFO]   TV 15M: ✗
+2026-04-21 20:19:56,709 [INFO] Fetching OHLCV data...
+2026-04-21 20:19:57,766 [INFO]   1H bars: 263
+2026-04-21 20:19:57,766 [INFO]   15M bars: 287
+2026-04-21 20:19:57,772 [INFO] Price: $4786.4 | BEARISH | Score: 2.5/10
+2026-04-21 20:19:57,772 [INFO] Confluence too low (2.5/10) — skip AI call
+2026-04-21 20:19:57,773 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 20:20:10,585 [INFO] Command from 6017032889: /start
+2026-04-21 20:21:12,748 [INFO] Command from 6017032889: /start
+2026-04-21 20:21:31,989 [INFO] Command from 6017032889: /signal
+2026-04-21 20:21:31,989 [INFO] /signal from 6017032889
+2026-04-21 20:21:32,775 [INFO] Fetching TradingView data...
+2026-04-21 20:21:32,927 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:33,096 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:33,097 [ERROR] All TV sources failed for 1D
+2026-04-21 20:21:33,097 [INFO]   TV 1D: ✗
+2026-04-21 20:21:33,254 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:33,417 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:33,417 [ERROR] All TV sources failed for 4H
+2026-04-21 20:21:33,418 [INFO]   TV 4H: ✗
+2026-04-21 20:21:33,576 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:33,731 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:33,731 [ERROR] All TV sources failed for 1H
+2026-04-21 20:21:33,732 [INFO]   TV 1H: ✗
+2026-04-21 20:21:33,893 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:34,051 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:21:34,051 [ERROR] All TV sources failed for 15M
+2026-04-21 20:21:34,051 [INFO]   TV 15M: ✗
+2026-04-21 20:21:34,051 [INFO] Fetching OHLCV data...
+2026-04-21 20:21:34,402 [INFO]   1H bars: 263
+2026-04-21 20:21:34,402 [INFO]   15M bars: 287
+2026-04-21 20:21:34,413 [INFO] On-demand: $4789.4 | BEARISH | Score 2.5/10
+2026-04-21 20:21:34,733 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 25.282969732s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 25
+}
+]
+2026-04-21 20:21:34,733 [INFO] On-demand AI:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 25.282969732s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 25
+}
+]
+
+2026-04-21 20:21:34,859 [ERROR] Market summary error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 25.149109602s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 25
+}
+]
+2026-04-21 20:21:35,071 [INFO] Chart saved: latest_chart.png
+2026-04-21 20:23:19,548 [INFO] Command from 6017032889: /start
+2026-04-21 20:23:29,770 [INFO] Command from 6017032889: /signal
+2026-04-21 20:23:29,770 [INFO] /signal from 6017032889
+2026-04-21 20:23:30,594 [INFO] Fetching TradingView data...
+2026-04-21 20:23:30,779 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:23:30,931 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:23:30,932 [ERROR] All TV sources failed for 1D
+2026-04-21 20:23:30,932 [INFO]   TV 1D: ✗
+2026-04-21 20:23:31,401 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:23:31,553 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:23:31,553 [ERROR] All TV sources failed for 4H
+2026-04-21 20:23:31,554 [INFO]   TV 4H: ✗
+2026-04-21 20:23:31,714 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:23:31,868 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:23:31,869 [ERROR] All TV sources failed for 1H
+2026-04-21 20:23:31,869 [INFO]   TV 1H: ✗
+2026-04-21 20:23:32,024 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:23:32,186 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:23:32,187 [ERROR] All TV sources failed for 15M
+2026-04-21 20:23:32,187 [INFO]   TV 15M: ✗
+2026-04-21 20:23:32,187 [INFO] Fetching OHLCV data...
+2026-04-21 20:23:32,571 [INFO]   1H bars: 263
+2026-04-21 20:23:32,571 [INFO]   15M bars: 287
+2026-04-21 20:23:32,577 [INFO] On-demand: $4785.5 | BEARISH | Score 2.5/10
+2026-04-21 20:23:32,670 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 27.338079763s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 27
+}
+]
+2026-04-21 20:23:32,670 [INFO] On-demand AI:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 27.338079763s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 27
+}
+]
+
+2026-04-21 20:23:32,778 [ERROR] Market summary error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 27.228507105s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 27
+}
+]
+2026-04-21 20:23:32,958 [INFO] Chart saved: latest_chart.png
+2026-04-21 20:25:38,539 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:25:38,539 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 20:25:38,540 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:25:39,424 [INFO] Telegram polling started
+2026-04-21 20:25:39,424 [INFO] Telegram polling: active
+2026-04-21 20:25:39,425 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:25:39,425 [INFO] AUTO CYCLE START
+2026-04-21 20:25:39,425 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:25:39,425 [INFO] Fetching TradingView data...
+2026-04-21 20:25:39,614 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:25:39,776 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:25:39,777 [ERROR] All TV sources failed for 1D
+2026-04-21 20:25:39,777 [INFO]   TV 1D: ✗
+2026-04-21 20:25:39,955 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:25:40,117 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:25:40,118 [ERROR] All TV sources failed for 4H
+2026-04-21 20:25:40,118 [INFO]   TV 4H: ✗
+2026-04-21 20:25:40,273 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:25:45,445 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:25:45,445 [ERROR] All TV sources failed for 1H
+2026-04-21 20:25:45,445 [INFO]   TV 1H: ✗
+2026-04-21 20:25:45,605 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:25:45,833 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:25:45,833 [ERROR] All TV sources failed for 15M
+2026-04-21 20:25:45,833 [INFO]   TV 15M: ✗
+2026-04-21 20:25:45,834 [INFO] Fetching OHLCV data...
+2026-04-21 20:25:47,025 [INFO]   1H bars: 263
+2026-04-21 20:25:47,026 [INFO]   15M bars: 288
+2026-04-21 20:25:47,036 [INFO] Price: $4785.1 | BEARISH | Score: 2.5/10
+2026-04-21 20:25:47,036 [INFO] Confluence too low (2.5/10) — skip AI call
+2026-04-21 20:25:47,036 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 20:26:03,987 [INFO] Command from 6017032889: /start
+2026-04-21 20:26:12,225 [INFO] Command from 6017032889: /ask
+2026-04-21 20:26:18,037 [INFO] Command from 6017032889: /help
+2026-04-21 20:28:09,537 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:28:09,538 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 20:28:09,538 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:28:11,370 [INFO] Telegram polling started
+2026-04-21 20:28:11,370 [INFO] Telegram polling: active
+2026-04-21 20:28:11,370 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:28:11,371 [INFO] AUTO CYCLE START
+2026-04-21 20:28:11,371 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:28:11,371 [INFO] Fetching TradingView data...
+2026-04-21 20:28:11,725 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:28:11,940 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:28:11,941 [ERROR] All TV sources failed for 1D
+2026-04-21 20:28:11,941 [INFO]   TV 1D: ✗
+2026-04-21 20:28:12,320 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:28:12,495 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:28:12,496 [ERROR] All TV sources failed for 4H
+2026-04-21 20:28:12,496 [INFO]   TV 4H: ✗
+2026-04-21 20:28:22,660 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:28:23,111 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:28:23,112 [ERROR] All TV sources failed for 1H
+2026-04-21 20:28:23,112 [INFO]   TV 1H: ✗
+2026-04-21 20:28:23,646 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:28:23,841 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:28:23,842 [ERROR] All TV sources failed for 15M
+2026-04-21 20:28:23,842 [INFO]   TV 15M: ✗
+2026-04-21 20:28:23,842 [INFO] Fetching OHLCV data...
+2026-04-21 20:28:24,994 [INFO]   1H bars: 263
+2026-04-21 20:28:24,994 [INFO]   15M bars: 288
+2026-04-21 20:28:25,005 [INFO] Price: $4787.5 | BEARISH | Score: 2.5/10
+2026-04-21 20:28:25,005 [INFO] Confluence too low (2.5/10) — skip AI call
+2026-04-21 20:28:25,005 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 20:28:25,315 [INFO] Command from 6017032889: /help
+2026-04-21 20:28:37,163 [INFO] Command from 6017032889: /ask
+2026-04-21 20:28:39,935 [INFO] Command from 6017032889: halo
+2026-04-21 20:28:39,936 [INFO] AI Query from 6017032889: halo
+2026-04-21 20:28:40,306 [ERROR] Chat query error: 404 models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-21 20:28:54,907 [INFO] Command from 6017032889: coba jelaskan apa itu xau
+2026-04-21 20:28:54,907 [INFO] AI Query from 6017032889: coba jelaskan apa itu xau
+2026-04-21 20:28:54,995 [ERROR] Chat query error: 404 models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-21 20:33:43,050 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:33:43,051 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 20:33:43,051 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:33:43,880 [INFO] Telegram polling started
+2026-04-21 20:33:43,880 [INFO] Telegram polling: active
+2026-04-21 20:33:43,881 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:33:43,881 [INFO] AUTO CYCLE START
+2026-04-21 20:33:43,881 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:33:43,881 [INFO] Fetching TradingView data...
+2026-04-21 20:33:44,076 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:33:44,270 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:33:44,271 [ERROR] All TV sources failed for 1D
+2026-04-21 20:33:44,271 [INFO]   TV 1D: ✗
+2026-04-21 20:33:44,431 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:33:44,937 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:33:44,938 [ERROR] All TV sources failed for 4H
+2026-04-21 20:33:44,938 [INFO]   TV 4H: ✗
+2026-04-21 20:33:45,442 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:33:45,614 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:33:45,614 [ERROR] All TV sources failed for 1H
+2026-04-21 20:33:45,614 [INFO]   TV 1H: ✗
+2026-04-21 20:33:46,105 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:33:46,334 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:33:46,334 [ERROR] All TV sources failed for 15M
+2026-04-21 20:33:46,334 [INFO]   TV 15M: ✗
+2026-04-21 20:33:46,334 [INFO] Fetching OHLCV data...
+2026-04-21 20:33:47,663 [INFO]   1H bars: 263
+2026-04-21 20:33:47,663 [INFO]   15M bars: 288
+2026-04-21 20:33:47,674 [INFO] Price: $4788.3 | BEARISH | Score: 2.5/10
+2026-04-21 20:33:47,674 [INFO] Confluence too low (2.5/10) — skip AI call
+2026-04-21 20:33:47,674 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 20:33:54,484 [INFO] Command from 6017032889: halo
+2026-04-21 20:33:54,484 [INFO] AI Query from 6017032889: halo
+2026-04-21 20:33:54,792 [ERROR] Chat query error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-21 20:36:31,769 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:36:31,769 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 20:36:31,769 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:36:32,772 [INFO] Telegram polling started
+2026-04-21 20:36:32,772 [INFO] Telegram polling: active
+2026-04-21 20:36:32,773 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:36:32,773 [INFO] AUTO CYCLE START
+2026-04-21 20:36:32,773 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:36:32,773 [INFO] Fetching TradingView data...
+2026-04-21 20:36:33,080 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:36:33,236 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:36:33,236 [ERROR] All TV sources failed for 1D
+2026-04-21 20:36:33,237 [INFO]   TV 1D: ✗
+2026-04-21 20:36:33,397 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:36:33,673 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:36:33,674 [ERROR] All TV sources failed for 4H
+2026-04-21 20:36:33,674 [INFO]   TV 4H: ✗
+2026-04-21 20:36:33,922 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:36:34,148 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:36:34,148 [ERROR] All TV sources failed for 1H
+2026-04-21 20:36:34,149 [INFO]   TV 1H: ✗
+2026-04-21 20:36:34,670 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:36:34,827 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:36:34,828 [ERROR] All TV sources failed for 15M
+2026-04-21 20:36:34,829 [INFO]   TV 15M: ✗
+2026-04-21 20:36:34,829 [INFO] Fetching OHLCV data...
+2026-04-21 20:36:40,806 [INFO] Command from 6017032889: halo
+2026-04-21 20:36:40,806 [INFO] AI Query from 6017032889: halo
+2026-04-21 20:36:41,065 [ERROR] Chat query error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-21 20:36:42,505 [INFO]   1H bars: 263
+2026-04-21 20:36:42,505 [INFO]   15M bars: 288
+2026-04-21 20:36:42,512 [INFO] Price: $4789.7 | BEARISH | Score: 2.5/10
+2026-04-21 20:36:42,512 [INFO] Confluence too low (2.5/10) — skip AI call
+2026-04-21 20:36:42,512 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 20:37:54,772 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:37:54,772 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 20:37:54,772 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:37:57,404 [INFO] Telegram polling started
+2026-04-21 20:37:57,404 [INFO] Telegram polling: active
+2026-04-21 20:37:57,405 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:37:57,405 [INFO] AUTO CYCLE START
+2026-04-21 20:37:57,405 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:37:57,405 [INFO] Fetching TradingView data...
+2026-04-21 20:37:57,909 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:37:59,217 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:37:59,218 [ERROR] All TV sources failed for 1D
+2026-04-21 20:37:59,218 [INFO]   TV 1D: ✗
+2026-04-21 20:37:59,769 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:38:00,517 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:38:00,518 [ERROR] All TV sources failed for 4H
+2026-04-21 20:38:00,518 [INFO]   TV 4H: ✗
+2026-04-21 20:38:00,805 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:38:01,358 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:38:01,359 [ERROR] All TV sources failed for 1H
+2026-04-21 20:38:01,359 [INFO]   TV 1H: ✗
+2026-04-21 20:38:01,913 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:38:02,093 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:38:02,094 [ERROR] All TV sources failed for 15M
+2026-04-21 20:38:02,094 [INFO]   TV 15M: ✗
+2026-04-21 20:38:02,094 [INFO] Fetching OHLCV data...
+2026-04-21 20:38:03,077 [INFO] Command from 6017032889: halo
+2026-04-21 20:38:03,077 [INFO] AI Query from 6017032889: halo
+2026-04-21 20:38:03,560 [INFO]   1H bars: 263
+2026-04-21 20:38:03,560 [INFO]   15M bars: 288
+2026-04-21 20:38:03,567 [INFO] Price: $4790.9 | BEARISH | Score: 2.5/10
+2026-04-21 20:38:03,567 [INFO] Confluence too low (2.5/10) — skip AI call
+2026-04-21 20:38:03,567 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 20:40:25,118 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:40:25,118 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 20:40:25,118 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:40:26,721 [INFO] Telegram polling started
+2026-04-21 20:40:26,721 [INFO] Telegram polling: active
+2026-04-21 20:40:26,722 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:40:26,722 [INFO] AUTO CYCLE START
+2026-04-21 20:40:26,722 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:40:26,722 [INFO] Fetching TradingView data...
+2026-04-21 20:40:31,960 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:40:32,127 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:40:32,127 [ERROR] All TV sources failed for 1D
+2026-04-21 20:40:32,127 [INFO]   TV 1D: ✗
+2026-04-21 20:40:32,285 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:40:32,449 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:40:32,450 [ERROR] All TV sources failed for 4H
+2026-04-21 20:40:32,450 [INFO]   TV 4H: ✗
+2026-04-21 20:40:32,639 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:40:32,799 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:40:32,800 [ERROR] All TV sources failed for 1H
+2026-04-21 20:40:32,800 [INFO]   TV 1H: ✗
+2026-04-21 20:40:32,966 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:40:33,127 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 20:40:33,127 [ERROR] All TV sources failed for 15M
+2026-04-21 20:40:33,128 [INFO]   TV 15M: ✗
+2026-04-21 20:40:33,128 [INFO] Fetching OHLCV data...
+2026-04-21 20:40:35,304 [INFO]   1H bars: 263
+2026-04-21 20:40:35,304 [INFO]   15M bars: 289
+2026-04-21 20:40:35,311 [INFO] Price: $4795.1 | BEARISH | Score: 3.5/10
+2026-04-21 20:40:35,311 [INFO] Confluence too low (3.5/10) — skip AI call
+2026-04-21 20:40:35,311 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 20:41:38,616 [INFO] Command from 6017032889: halo
+2026-04-21 20:41:38,617 [INFO] AI Query from 6017032889: halo
+2026-04-21 20:41:51,804 [INFO] Command from 6017032889: halo
+2026-04-21 20:41:51,804 [INFO] AI Query from 6017032889: halo
+2026-04-21 20:42:19,550 [INFO] Command from 6017032889: halo
+2026-04-21 20:42:19,550 [INFO] AI Query from 6017032889: halo
+2026-04-21 20:46:37,701 [INFO] Command from 6017032889: /signal
+2026-04-21 20:46:37,712 [INFO] /signal from 6017032889
+2026-04-21 20:46:39,137 [INFO] Fetching TradingView data...
+2026-04-21 20:46:45,122 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 20:46:45,929 [INFO]   TV 1D: ✓
+2026-04-21 20:46:46,468 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 20:46:46,977 [INFO]   TV 4H: ✓
+2026-04-21 20:46:47,511 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 20:46:48,127 [INFO]   TV 1H: ✓
+2026-04-21 20:46:48,630 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 20:46:49,136 [INFO]   TV 15M: ✓
+2026-04-21 20:46:49,136 [INFO] Fetching OHLCV data...
+2026-04-21 20:46:49,905 [INFO]   1H bars: 263
+2026-04-21 20:46:49,905 [INFO]   15M bars: 289
+2026-04-21 20:46:49,917 [INFO] On-demand: $4788.47 | BEARISH | Score 3.5/10
+2026-04-21 20:46:50,213 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 9.797605113s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 9
+}
+]
+2026-04-21 20:46:50,213 [INFO] On-demand AI:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 9.797605113s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 9
+}
+]
+
+2026-04-21 20:46:50,344 [ERROR] Market summary error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 9.656580076s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 9
+}
+]
+2026-04-21 20:46:50,895 [INFO] Chart saved: latest_chart.png
+2026-04-21 20:50:05,712 [INFO] Command from 8764016970: /start
+2026-04-21 20:50:16,968 [INFO] Command from 8764016970: /help
+2026-04-21 20:55:35,337 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:55:35,342 [INFO] AUTO CYCLE START
+2026-04-21 20:55:35,342 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 20:55:35,342 [INFO] Fetching TradingView data...
+2026-04-21 20:55:35,924 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 20:55:36,370 [INFO]   TV 1D: ✓
+2026-04-21 20:55:36,737 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 20:55:37,110 [INFO]   TV 4H: ✓
+2026-04-21 20:55:37,445 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 20:55:37,890 [INFO]   TV 1H: ✓
+2026-04-21 20:55:38,245 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 20:55:38,933 [INFO]   TV 15M: ✓
+2026-04-21 20:55:38,933 [INFO] Fetching OHLCV data...
+2026-04-21 20:55:39,837 [INFO]   1H bars: 263
+2026-04-21 20:55:39,837 [INFO]   15M bars: 290
+2026-04-21 20:55:39,851 [INFO] Price: $4789.21 | BEARISH | Score: 3.5/10
+2026-04-21 20:55:39,851 [INFO] Confluence too low (3.5/10) — skip AI call
+2026-04-21 21:04:52,361 [INFO] Command from 6017032889: halo
+2026-04-21 21:04:52,362 [INFO] AI Query from 6017032889: halo
+2026-04-21 21:10:39,900 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:10:39,903 [INFO] AUTO CYCLE START
+2026-04-21 21:10:39,903 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:10:39,904 [INFO] Fetching TradingView data...
+2026-04-21 21:10:40,506 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 21:10:40,897 [INFO]   TV 1D: ✓
+2026-04-21 21:10:41,302 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 21:10:41,709 [INFO]   TV 4H: ✓
+2026-04-21 21:10:42,091 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 21:10:42,474 [INFO]   TV 1H: ✓
+2026-04-21 21:10:42,872 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 21:10:43,261 [INFO]   TV 15M: ✓
+2026-04-21 21:10:43,261 [INFO] Fetching OHLCV data...
+2026-04-21 21:10:44,098 [INFO]   1H bars: 264
+2026-04-21 21:10:44,098 [INFO]   15M bars: 291
+2026-04-21 21:10:44,109 [INFO] Price: $4776.65 | BEARISH | Score: 3.0/10
+2026-04-21 21:10:44,109 [INFO] Confluence too low (3.0/10) — skip AI call
+2026-04-21 21:22:54,974 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:22:54,975 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 21:22:54,975 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:22:55,819 [INFO] Telegram polling started
+2026-04-21 21:22:55,820 [INFO] Telegram polling: active
+2026-04-21 21:22:55,821 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:22:55,821 [INFO] AUTO CYCLE START
+2026-04-21 21:22:55,821 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:22:55,821 [INFO] Fetching TradingView data...
+2026-04-21 21:23:01,291 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 21:23:01,694 [INFO]   TV 1D: ✓
+2026-04-21 21:23:02,078 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 21:23:02,471 [INFO]   TV 4H: ✓
+2026-04-21 21:23:02,970 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 21:23:03,334 [INFO]   TV 1H: ✓
+2026-04-21 21:23:03,661 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 21:23:04,080 [INFO]   TV 15M: ✓
+2026-04-21 21:23:04,080 [INFO] Fetching OHLCV data...
+2026-04-21 21:23:05,042 [INFO]   1H bars: 264
+2026-04-21 21:23:05,042 [INFO]   15M bars: 291
+2026-04-21 21:24:07,807 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:24:07,807 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 21:24:07,807 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:24:08,664 [INFO] Telegram polling started
+2026-04-21 21:24:08,664 [INFO] Telegram polling: active
+2026-04-21 21:24:08,665 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:24:08,665 [INFO] AUTO CYCLE START
+2026-04-21 21:24:08,665 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:24:08,665 [INFO] Fetching TradingView data...
+2026-04-21 21:24:08,988 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 21:24:09,414 [INFO]   TV 1D: ✓
+2026-04-21 21:24:09,788 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 21:24:10,179 [INFO]   TV 4H: ✓
+2026-04-21 21:24:10,477 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 21:24:10,839 [INFO]   TV 1H: ✓
+2026-04-21 21:24:11,259 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 21:24:11,640 [INFO]   TV 15M: ✓
+2026-04-21 21:24:11,640 [INFO] Fetching OHLCV data...
+2026-04-21 21:24:12,460 [INFO]   1H bars: 264
+2026-04-21 21:24:12,460 [INFO]   15M bars: 291
+2026-04-21 21:25:30,288 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:25:30,288 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 21:25:30,288 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:25:31,191 [INFO] Telegram polling started
+2026-04-21 21:25:31,191 [INFO] Telegram polling: active
+2026-04-21 21:25:31,192 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:25:31,192 [INFO] AUTO CYCLE START
+2026-04-21 21:25:31,192 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:25:31,192 [INFO] Fetching TradingView data...
+2026-04-21 21:25:31,420 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:25:31,553 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:25:31,554 [ERROR] All TV sources failed for 1D
+2026-04-21 21:25:31,554 [INFO]   TV 1D: ✗
+2026-04-21 21:25:31,707 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:25:31,855 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:25:31,856 [ERROR] All TV sources failed for 4H
+2026-04-21 21:25:31,856 [INFO]   TV 4H: ✗
+2026-04-21 21:25:32,007 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:25:32,161 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:25:32,161 [ERROR] All TV sources failed for 1H
+2026-04-21 21:25:32,162 [INFO]   TV 1H: ✗
+2026-04-21 21:25:32,315 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:25:32,460 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:25:32,461 [ERROR] All TV sources failed for 15M
+2026-04-21 21:25:32,461 [INFO]   TV 15M: ✗
+2026-04-21 21:25:32,461 [INFO] Fetching OHLCV data...
+2026-04-21 21:25:33,519 [INFO]   1H bars: 264
+2026-04-21 21:25:33,519 [INFO]   15M bars: 292
+2026-04-21 21:25:34,484 [ERROR] Sentiment analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 25.536224657s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 25
+}
+]
+2026-04-21 21:25:34,485 [INFO] Price: $4797.4 | NEUTRAL | Score: 0.5/10
+2026-04-21 21:26:13,433 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:26:13,434 [INFO] XAUUSDSmartBot v4.0 starting...
+2026-04-21 21:26:13,434 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:26:14,305 [INFO] Telegram polling started
+2026-04-21 21:26:14,305 [INFO] Telegram polling: active
+2026-04-21 21:26:14,306 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:26:14,306 [INFO] AUTO CYCLE START
+2026-04-21 21:26:14,306 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:26:14,306 [INFO] Fetching TradingView data...
+2026-04-21 21:26:14,548 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:26:14,683 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:26:14,684 [ERROR] All TV sources failed for 1D
+2026-04-21 21:26:14,684 [INFO]   TV 1D: ✗
+2026-04-21 21:26:14,820 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:26:14,978 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:26:14,979 [ERROR] All TV sources failed for 4H
+2026-04-21 21:26:14,979 [INFO]   TV 4H: ✗
+2026-04-21 21:26:15,123 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:26:15,274 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:26:15,275 [ERROR] All TV sources failed for 1H
+2026-04-21 21:26:15,275 [INFO]   TV 1H: ✗
+2026-04-21 21:26:15,437 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:26:15,593 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:26:15,595 [ERROR] All TV sources failed for 15M
+2026-04-21 21:26:15,595 [INFO]   TV 15M: ✗
+2026-04-21 21:26:15,595 [INFO] Fetching OHLCV data...
+2026-04-21 21:26:16,338 [INFO]   1H bars: 264
+2026-04-21 21:26:16,338 [INFO]   15M bars: 292
+2026-04-21 21:26:16,854 [ERROR] Sentiment analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 43.162809797s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 43
+}
+]
+2026-04-21 21:26:16,854 [INFO] Price: $4797.0 | NEUTRAL | Score: 0.5/10
+2026-04-21 21:26:16,956 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 43.060371638s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 43
+}
+]
+2026-04-21 21:26:16,956 [INFO] AI result:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 43.060371638s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 43
+}
+]
+
+2026-04-21 21:26:16,956 [INFO] AI returned NO TRADE or low confidence
+2026-04-21 21:26:16,956 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 21:27:35,029 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:27:35,030 [INFO] XAUUSDSmartBot v5.0 starting...
+2026-04-21 21:27:35,030 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:27:35,885 [INFO] Telegram polling started
+2026-04-21 21:27:35,885 [INFO] Telegram polling: active
+2026-04-21 21:27:35,886 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:27:35,886 [INFO] AUTO CYCLE START
+2026-04-21 21:27:35,886 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:27:35,886 [INFO] Fetching TradingView data...
+2026-04-21 21:27:36,040 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:27:36,174 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:27:36,175 [ERROR] All TV sources failed for 1D
+2026-04-21 21:27:36,175 [INFO]   TV 1D: ✗
+2026-04-21 21:27:36,327 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:27:36,485 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:27:36,486 [ERROR] All TV sources failed for 4H
+2026-04-21 21:27:36,486 [INFO]   TV 4H: ✗
+2026-04-21 21:27:36,631 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:27:37,769 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:27:37,769 [ERROR] All TV sources failed for 1H
+2026-04-21 21:27:37,770 [INFO]   TV 1H: ✗
+2026-04-21 21:27:37,924 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:27:38,073 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:27:38,074 [ERROR] All TV sources failed for 15M
+2026-04-21 21:27:38,074 [INFO]   TV 15M: ✗
+2026-04-21 21:27:38,074 [INFO] Fetching OHLCV data...
+2026-04-21 21:27:38,774 [INFO]   1H bars: 264
+2026-04-21 21:27:38,774 [INFO]   15M bars: 292
+2026-04-21 21:27:39,642 [ERROR] Sentiment analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 20.382008052s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2026-04-21 21:27:39,643 [INFO] Price: $4796.9 | NEUTRAL | Score: 0.5/10
+2026-04-21 21:27:39,739 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 20.277761174s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2026-04-21 21:27:39,739 [INFO] AI result:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 20.277761174s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 20
+}
+]
+
+2026-04-21 21:27:39,739 [INFO] AI returned NO TRADE or low confidence
+2026-04-21 21:27:39,740 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 21:27:42,860 [INFO] Command from 6017032889: /analytics
+2026-04-21 21:28:53,433 [INFO] Command from 6017032889: /signal
+2026-04-21 21:28:53,437 [INFO] /signal from 6017032889
+2026-04-21 21:28:54,266 [INFO] Fetching TradingView data...
+2026-04-21 21:28:54,448 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:28:54,599 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:28:54,600 [ERROR] All TV sources failed for 1D
+2026-04-21 21:28:54,600 [INFO]   TV 1D: ✗
+2026-04-21 21:28:54,863 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:28:55,003 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:28:55,004 [ERROR] All TV sources failed for 4H
+2026-04-21 21:28:55,005 [INFO]   TV 4H: ✗
+2026-04-21 21:28:55,159 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:28:55,291 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:28:55,291 [ERROR] All TV sources failed for 1H
+2026-04-21 21:28:55,292 [INFO]   TV 1H: ✗
+2026-04-21 21:28:55,408 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:28:55,537 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:28:55,539 [ERROR] All TV sources failed for 15M
+2026-04-21 21:28:55,539 [INFO]   TV 15M: ✗
+2026-04-21 21:28:55,539 [INFO] Fetching OHLCV data...
+2026-04-21 21:28:56,322 [INFO]   1H bars: 264
+2026-04-21 21:28:56,322 [INFO]   15M bars: 292
+2026-04-21 21:28:57,130 [ERROR] Sentiment analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 2.888466506s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2026-04-21 21:28:57,130 [INFO] On-demand: $4797.2 | NEUTRAL | Score 0.5/10
+2026-04-21 21:28:57,492 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 2.547383283s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2026-04-21 21:28:57,493 [INFO] On-demand AI:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 2.547383283s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 2
+}
+]
+
+2026-04-21 21:28:57,595 [ERROR] Market summary error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 2.42392401s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2026-04-21 21:28:57,811 [INFO] Chart saved: latest_chart.png
+2026-04-21 21:33:35,116 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:33:35,116 [INFO] XAUUSDSmartBot v5.0 starting...
+2026-04-21 21:33:35,116 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:33:35,899 [INFO] Telegram polling started
+2026-04-21 21:33:35,899 [INFO] Telegram polling: active
+2026-04-21 21:33:35,901 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:33:35,901 [INFO] AUTO CYCLE START
+2026-04-21 21:33:35,901 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:33:35,901 [INFO] Fetching TradingView data...
+2026-04-21 21:33:36,407 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 21:33:36,795 [INFO]   TV 1D: ✓
+2026-04-21 21:33:37,153 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 21:33:37,537 [INFO]   TV 4H: ✓
+2026-04-21 21:33:37,931 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 21:33:38,349 [INFO]   TV 1H: ✓
+2026-04-21 21:33:38,712 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 21:33:39,089 [INFO]   TV 15M: ✓
+2026-04-21 21:33:39,089 [INFO] Fetching OHLCV data...
+2026-04-21 21:33:40,033 [INFO]   1H bars: 264
+2026-04-21 21:33:40,034 [INFO]   15M bars: 292
+2026-04-21 21:33:42,123 [ERROR] Sentiment analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 17.916809167s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 17
+}
+]
+2026-04-21 21:33:42,123 [INFO] Price: $4770.11 | BEARISH | Score: 4.5/10
+2026-04-21 21:33:42,287 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 17.75330966s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 17
+}
+]
+2026-04-21 21:33:42,287 [INFO] AI result:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 17.75330966s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 17
+}
+]
+
+2026-04-21 21:33:42,287 [INFO] AI returned NO TRADE or low confidence
+2026-04-21 21:33:42,293 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 21:36:14,225 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:36:14,226 [INFO] XAUUSDSmartBot v5.0 starting...
+2026-04-21 21:36:14,226 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:36:15,031 [INFO] Telegram polling started
+2026-04-21 21:36:15,031 [INFO] Telegram polling: active
+2026-04-21 21:36:15,032 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:36:15,032 [INFO] AUTO CYCLE START
+2026-04-21 21:36:15,032 [INFO] ═══════════════════════════════════════════════════════
+2026-04-21 21:36:15,032 [INFO] Fetching TradingView data...
+2026-04-21 21:36:15,439 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 21:36:15,819 [INFO]   TV 1D: ✓
+2026-04-21 21:36:16,129 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 21:36:16,477 [INFO]   TV 4H: ✓
+2026-04-21 21:36:16,870 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 21:36:17,211 [INFO]   TV 1H: ✓
+2026-04-21 21:36:17,582 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 21:36:18,368 [INFO]   TV 15M: ✓
+2026-04-21 21:36:18,368 [INFO] Fetching OHLCV data...
+2026-04-21 21:36:19,212 [INFO]   1H bars: 264
+2026-04-21 21:36:19,212 [INFO]   15M bars: 292
+2026-04-21 21:36:20,103 [ERROR] Sentiment analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 39.920981502s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 39
+}
+]
+2026-04-21 21:36:20,103 [INFO] Price: $4767.23 | BEARISH | Score: 4.5/10
+2026-04-21 21:36:20,281 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 39.740669901s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 39
+}
+]
+2026-04-21 21:36:20,281 [INFO] AI result:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 39.740669901s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 39
+}
+]
+
+2026-04-21 21:36:20,281 [INFO] AI returned NO TRADE or low confidence
+2026-04-21 21:36:20,282 [INFO] Scheduler: every 15 minutes | Active
+2026-04-21 21:36:20,777 [INFO] Command from 6017032889: /analytics
+2026-04-21 21:36:23,446 [INFO] Command from 6017032889: /status
+2026-04-21 21:36:23,447 [INFO] /status from 6017032889
+2026-04-21 21:36:24,266 [INFO] Fetching TradingView data...
+2026-04-21 21:36:24,602 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-21 21:36:24,936 [INFO]   TV 1D: ✓
+2026-04-21 21:36:25,313 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-21 21:36:25,668 [INFO]   TV 4H: ✓
+2026-04-21 21:36:25,970 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-21 21:36:26,297 [INFO]   TV 1H: ✓
+2026-04-21 21:36:26,663 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-21 21:36:27,035 [INFO]   TV 15M: ✓
+2026-04-21 21:36:27,035 [INFO] Fetching OHLCV data...
+2026-04-21 21:36:27,403 [INFO]   1H bars: 264
+2026-04-21 21:36:27,403 [INFO]   15M bars: 292
+2026-04-21 21:36:27,787 [ERROR] Sentiment analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 32.237470863s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 32
+}
+]
+2026-04-21 21:36:47,075 [INFO] Command from 6017032889: /help
+2026-04-21 21:36:51,674 [INFO] Command from 6017032889: /signal
+2026-04-21 21:36:51,674 [INFO] /signal from 6017032889
+2026-04-21 21:36:52,477 [INFO] Fetching TradingView data...
+2026-04-21 21:36:52,633 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:36:52,784 [WARNING] TV fetch failed [TVC:GOLD 1D]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:36:52,784 [ERROR] All TV sources failed for 1D
+2026-04-21 21:36:52,785 [INFO]   TV 1D: ✗
+2026-04-21 21:36:52,937 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:36:53,088 [WARNING] TV fetch failed [TVC:GOLD 4H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:36:53,090 [ERROR] All TV sources failed for 4H
+2026-04-21 21:36:53,090 [INFO]   TV 4H: ✗
+2026-04-21 21:36:53,255 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:36:53,425 [WARNING] TV fetch failed [TVC:GOLD 1H]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:36:53,426 [ERROR] All TV sources failed for 1H
+2026-04-21 21:36:53,426 [INFO]   TV 1H: ✗
+2026-04-21 21:36:53,594 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:36:53,753 [WARNING] TV fetch failed [TVC:GOLD 15M]: Can't access TradingView's API. HTTP status code: 429. Check for invalid symbol, exchange, or indicators.
+2026-04-21 21:36:53,754 [ERROR] All TV sources failed for 15M
+2026-04-21 21:36:53,754 [INFO]   TV 15M: ✗
+2026-04-21 21:36:53,754 [INFO] Fetching OHLCV data...
+2026-04-21 21:36:54,132 [INFO]   1H bars: 264
+2026-04-21 21:36:54,132 [INFO]   15M bars: 292
+2026-04-21 21:36:54,500 [ERROR] Sentiment analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 5.524584509s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2026-04-21 21:36:54,500 [INFO] On-demand: $4791.5 | BEARISH | Score 2.5/10
+2026-04-21 21:36:54,581 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 5.440987771s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2026-04-21 21:36:54,581 [INFO] On-demand AI:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 5.440987771s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 5
+}
+]
+
+2026-04-21 21:36:54,713 [ERROR] Market summary error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 5.30769652s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2026-04-21 21:36:54,928 [INFO] Chart saved: latest_chart.png
+2026-04-22 08:52:06,068 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 08:52:06,068 [INFO] XAUUSDSmartBot v5.0 starting...
+2026-04-22 08:52:06,068 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 08:52:06,914 [INFO] Telegram polling started
+2026-04-22 08:52:06,914 [INFO] Telegram polling: active
+2026-04-22 08:52:06,915 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 08:52:06,915 [INFO] AUTO CYCLE START
+2026-04-22 08:52:06,915 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 08:52:06,915 [INFO] Outside trading session — skip
+2026-04-22 08:52:06,915 [INFO] Scheduler: every 15 minutes | Active
+2026-04-22 08:52:07,594 [INFO] Command from 6017032889: /analytics
+2026-04-22 08:52:08,500 [INFO] Command from 6017032889: /signal
+2026-04-22 08:52:08,501 [INFO] /signal from 6017032889
+2026-04-22 08:52:09,335 [INFO] Fetching TradingView data...
+2026-04-22 08:52:09,745 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-22 08:52:10,154 [INFO]   TV 1D: ✓
+2026-04-22 08:52:10,492 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-22 08:52:10,874 [INFO]   TV 4H: ✓
+2026-04-22 08:52:11,281 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-22 08:52:11,691 [INFO]   TV 1H: ✓
+2026-04-22 08:52:12,100 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-22 08:52:12,510 [INFO]   TV 15M: ✓
+2026-04-22 08:52:12,510 [INFO] Fetching OHLCV data...
+2026-04-22 08:52:13,259 [INFO]   1H bars: 274
+2026-04-22 08:52:13,259 [INFO]   15M bars: 333
+2026-04-22 08:52:13,720 [ERROR] Sentiment analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 46.286918319s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 46
+}
+]
+2026-04-22 08:52:13,720 [INFO] On-demand: $4752.74 | BULLISH | Score 3.5/10
+2026-04-22 08:52:13,796 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 46.209396779s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 46
+}
+]
+2026-04-22 08:52:13,796 [INFO] On-demand AI:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 46.209396779s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 46
+}
+]
+
+2026-04-22 08:52:13,873 [ERROR] Market summary error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 46.133429093s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 46
+}
+]
+2026-04-22 08:52:14,066 [INFO] Chart saved: latest_chart.png
+2026-04-22 08:52:26,334 [INFO] Command from 6017032889: halo
+2026-04-22 08:52:26,334 [INFO] AI Query from 6017032889: halo
+2026-04-22 09:20:06,144 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 09:20:06,144 [INFO] XAUUSDSmartBot v5.0 starting...
+2026-04-22 09:20:06,144 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 09:20:07,176 [INFO] Telegram polling started
+2026-04-22 09:20:07,176 [INFO] Telegram polling: active
+2026-04-22 09:20:07,176 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 09:20:07,177 [INFO] AUTO CYCLE START
+2026-04-22 09:20:07,177 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 09:20:07,177 [INFO] Outside trading session — skip
+2026-04-22 09:20:07,177 [INFO] Scheduler: every 15 minutes | Active
+2026-04-22 09:21:04,215 [INFO] Command from 8623742832: /start
+2026-04-22 09:21:13,053 [INFO] Command from 8623742832: /signal
+2026-04-22 09:21:13,053 [INFO] /signal from 8623742832
+2026-04-22 09:21:14,033 [INFO] Fetching TradingView data...
+2026-04-22 09:21:14,454 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-22 09:21:14,865 [INFO]   TV 1D: ✓
+2026-04-22 09:21:15,683 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-22 09:21:16,094 [INFO]   TV 4H: ✓
+2026-04-22 09:21:16,422 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-22 09:21:16,813 [INFO]   TV 1H: ✓
+2026-04-22 09:21:17,219 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-22 09:21:17,629 [INFO]   TV 15M: ✓
+2026-04-22 09:21:17,629 [INFO] Fetching OHLCV data...
+2026-04-22 09:21:18,267 [INFO]   1H bars: 275
+2026-04-22 09:21:18,267 [INFO]   15M bars: 335
+2026-04-22 09:21:18,836 [ERROR] Sentiment analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 41.15281629s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 41
+}
+]
+2026-04-22 09:21:18,837 [INFO] On-demand: $4757.04 | BULLISH | Score 4.7/10
+2026-04-22 09:21:19,164 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 40.914527722s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 40
+}
+]
+2026-04-22 09:21:19,168 [INFO] On-demand AI:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 40.914527722s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 40
+}
+]
+
+2026-04-22 09:21:19,252 [ERROR] Market summary error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 40.7365102s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 40
+}
+]
+2026-04-22 09:21:19,449 [INFO] Chart saved: latest_chart.png
+2026-04-22 09:35:07,195 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 09:35:07,228 [INFO] AUTO CYCLE START
+2026-04-22 09:35:07,228 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 09:35:07,228 [INFO] Outside trading session — skip
+2026-04-22 09:50:07,246 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 09:50:07,246 [INFO] AUTO CYCLE START
+2026-04-22 09:50:07,246 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 09:50:07,246 [INFO] Outside trading session — skip
+2026-04-22 10:05:07,263 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 10:05:07,268 [INFO] AUTO CYCLE START
+2026-04-22 10:05:07,268 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 10:05:07,268 [INFO] Outside trading session — skip
+2026-04-22 10:20:07,285 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 10:20:07,286 [INFO] AUTO CYCLE START
+2026-04-22 10:20:07,286 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 10:20:07,286 [INFO] Outside trading session — skip
+2026-04-22 10:35:07,303 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 10:35:07,303 [INFO] AUTO CYCLE START
+2026-04-22 10:35:07,303 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 10:35:07,303 [INFO] Outside trading session — skip
+2026-04-22 10:50:07,331 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 10:50:07,338 [INFO] AUTO CYCLE START
+2026-04-22 10:50:07,338 [INFO] ═══════════════════════════════════════════════════════
+2026-04-22 10:50:07,339 [INFO] Outside trading session — skip
+2026-04-22 10:52:37,756 [INFO] Command from 6017032889: /signal
+2026-04-22 10:52:37,766 [INFO] /signal from 6017032889
+2026-04-22 10:52:38,541 [INFO] Fetching TradingView data...
+2026-04-22 10:52:38,927 [WARNING] TV fetch failed [OANDA:XAUUSD 1D]: Exchange or symbol not found.
+2026-04-22 10:52:39,280 [INFO]   TV 1D: ✓
+2026-04-22 10:52:39,730 [WARNING] TV fetch failed [OANDA:XAUUSD 4H]: Exchange or symbol not found.
+2026-04-22 10:52:40,093 [INFO]   TV 4H: ✓
+2026-04-22 10:52:40,549 [WARNING] TV fetch failed [OANDA:XAUUSD 1H]: Exchange or symbol not found.
+2026-04-22 10:52:40,890 [INFO]   TV 1H: ✓
+2026-04-22 10:52:41,371 [WARNING] TV fetch failed [OANDA:XAUUSD 15M]: Exchange or symbol not found.
+2026-04-22 10:52:41,792 [INFO]   TV 15M: ✓
+2026-04-22 10:52:41,792 [INFO] Fetching OHLCV data...
+2026-04-22 10:52:42,170 [INFO]   1H bars: 276
+2026-04-22 10:52:42,170 [INFO]   15M bars: 341
+2026-04-22 10:52:42,629 [ERROR] Sentiment analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 17.359904631s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 17
+}
+]
+2026-04-22 10:52:42,629 [INFO] On-demand: $4758.94 | BULLISH | Score 4.7/10
+2026-04-22 10:52:42,905 [ERROR] Gemini error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 17.127153003s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 17
+}
+]
+2026-04-22 10:52:42,905 [INFO] On-demand AI:
+NO TRADE - AI error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 17.127153003s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 17
+}
+]
+
+2026-04-22 10:52:43,027 [ERROR] Market summary error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 16.958698671s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2026-04-22 10:52:43,264 [INFO] Chart saved: latest_chart.png

@@ -1,0 +1,11 @@
+# XAUUSD Bot v3.0 — Requirements (Updated for Python 3.13)
+# Install: pip install -r requirements_v3.txt
+
+tradingview-ta>=3.3.0
+yfinance>=0.2.40
+pandas>=3.0.2
+numpy>=2.4.4
+requests>=2.31.0
+schedule>=1.2.1
+google-generativeai>=0.8.6
+mplfinance>=0.12.10b0

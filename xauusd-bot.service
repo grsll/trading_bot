@@ -1,0 +1,26 @@
+[Unit]
+Description=XAUUSD Smart Trading Bot v5.0
+Documentation=https://github.com
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=huawei
+WorkingDirectory=/home/huawei/bot
+ExecStart=/home/huawei/bot/venv/bin/python3 /home/huawei/bot/bot_trading.py
+Restart=always
+RestartSec=10
+StartLimitIntervalSec=60
+StartLimitBurst=5
+
+# Logging
+StandardOutput=append:/home/huawei/bot/xauusd_bot.log
+StandardError=append:/home/huawei/bot/xauusd_bot.log
+
+# Environment
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONPATH=/home/huawei/bot
+
+[Install]
+WantedBy=multi-user.target
